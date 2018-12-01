@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="book-review"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1017/S0022381613000832</article-id>
+         <article-id pub-id-type="pii">S0022381613000832</article-id>
+         <article-id pub-id-type="publisher-id">00083</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Book Review</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib xlink:type="simple">
+               <string-name>
+                  <surname>Goren</surname>
+                  <given-names>Paul</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">                  
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">            
+            <label>               
+               <sup>a</sup>
+            </label>
+            <institution xlink:type="simple">University of Minnesota</institution>
+         </aff>
+         <pub-date pub-type="ppub">
+            <day>19</day>
+            <month>09</month>
+            <year>2013</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2013</year>
+         </pub-date>
+         <volume>75</volume>
+         <issue>4</issue>
+         <issue-id>jpolitics.75.issue-4</issue-id>
+         <fpage seq="27">E34</fpage>
+         <product xlink:type="simple">            
+            <source>Ideology in America</source>. By <string-name name-style="western">
+               <surname>Ellis</surname>
+               <given-names>Christopher</given-names>
+            </string-name> and <string-name name-style="western">
+               <surname>Stimson</surname>
+               <given-names>James A.</given-names>
+            </string-name>. (<publisher-name>Cambridge University Press</publisher-name>, <year>2012</year>.).</product>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2013 </copyright-statement>
+            <copyright-year>2013</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381613000832"/>
+         <counts>
+            <page-count count="2"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

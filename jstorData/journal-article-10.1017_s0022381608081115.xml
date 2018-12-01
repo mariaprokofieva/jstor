@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="EN">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">30219490</article-id>
+         <article-id pub-id-type="doi">10.1017/S0022381608081115</article-id>
+         <article-id pub-id-type="pii">S0022381608081115</article-id>
+         <article-id pub-id-type="publisher-id">08111</article-id>
+         <title-group>
+            <article-title>Making a Connection: Repetition and Priming in Presidential Campaigns</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Claibourn</surname>
+                  <given-names>Michele P.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>
+               <sup>a</sup>
+            </label>University of Virginia</aff>
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2008</year>
+         </pub-date>
+         <volume>70</volume>
+         <issue>4</issue>
+         <issue-id>jpolitics.70.issue-4</issue-id>
+         <fpage>1142</fpage>
+         <lpage>1159</lpage>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2008</copyright-statement>
+            <copyright-year>2008</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381608081115"/>
+         <abstract abstract-type="normal">
+            <p>
+               <italic>This paper examines whether the content of presidential advertising campaigns helps to create and reinforce associations between the issues a candidate emphasizes and that candidate. The argument relies on the distinction between mechanisms of priming, noting that the effects of exposure to the campaign fit better with a frequency mechanism than a recency mechanism. Using the 2000 presidential campaign, I find that the accumulated issue emphasis of the candidates’ advertising campaigns more strongly moderates the impact of issue considerations on evaluations than does recent emphasis, and in some cases, further serves to improve the predictability of these connections. This suggests the campaign can promote the development of longer-term associations via frequency accessibility and applicability which, in turn, enables citizens to hold the future leader accountable for the priorities embodied in the campaign.</italic>
+            </p>
+         </abstract>
+         <counts>
+            <page-count count="18"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>EN</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ack id="ack">
+         <p>AcknowledgmentsI would like to thank Paul S. Martin, John Geer, and the anonymous reviewers for their comments and suggestions on an earlier version of this paper.</p>
+      </ack>
+      <fn-group>
+         <fn id="fn20">
+            <p>Michele P. Claibourn is assistant professor of politics, University of Virginia, Charlottesville, VA 22904.</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>Though in comparing assemblage experiments that include three or six priming messages, Iyengar and Kinder find no discernible difference. The authors do not pursue this difference in results in any detail.</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>Miller and Krosnick (<xref ref-type="bibr" rid="ref27">2000</xref>) argue that accessibility is not, in fact, the key mediator of priming. The study on which they base this conclusion, though, relies on experimental work, not survey-based work like those from which the more troublesome conclusions were initially drawn. Other experimental work, meanwhile, suggests accessibility does mediate priming (Valentino, Hutchings, and White <xref ref-type="bibr" rid="ref34">2002</xref>), so the precise role of accessibility remains an ongoing question.</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>One-shot election surveys that investigate whether themes prominent in the campaign are granted more weight in vote choice seem to assume priming is induced through frequent exposure to a message (Carsey <xref ref-type="bibr" rid="ref9">2000</xref>; Druckman <xref ref-type="bibr" rid="ref10">2004</xref>). Research into campaign effects that directly incorporate campaign dynamics, on the other hand, often rely on truncated measures of campaign communications—e.g., a seven-day moving average— that necessarily assume priming effects are transitory (e.g., Johnston et al. <xref ref-type="bibr" rid="ref19">1992</xref>; Johnston, Hagen, and Jamieson, <xref ref-type="bibr" rid="ref20">2004</xref>).</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>Johnston, Hagen, and Jamieson (<xref ref-type="bibr" rid="ref20">2004</xref>) allude to this difference in their study of the 2000 campaign, noting that “the relation between priming and learning can be murky as priming can lead to learning (2004). Through sheer repetition of a candidate's argument, citizens may become more aware that a particular candidate constitutes a better means to a preferred policy end.</p>
+         </fn>
+         <fn id="fn5">
+            <label>
+               <sup>5</sup>
+            </label>
+            <p>Althaus and Kim (<xref ref-type="bibr" rid="ref1">2006</xref>) conclude that priming is a function of both applicability effects and accessibility effects, noting the reinforcing effect of these influences.</p>
+         </fn>
+         <fn id="fn6">
+            <label>
+               <sup>6</sup>
+            </label>
+            <p>Indeed, for valence issues—like improving education or reducing crime—the key difference between candidates is how highly they prioritize the issue.</p>
+         </fn>
+         <fn id="fn7">
+            <label>
+               <sup>7</sup>
+            </label>
+            <p>Candidate evaluations were based on the following question: “I'd like to get your feelings toward the candidates for president by asking you to rate each one on a scale that runs from 0 to 100. 0 means you feel very unfavorable toward the candidate, 100 means you feel very favorable, and 50 means you feel neutral toward the candidate. Using any number from 0 to 100, overall how do you feel toward [George W. Bush].”</p>
+         </fn>
+         <fn id="fn8">
+            <label>
+               <sup>8</sup>
+            </label>
+            <p>The questions read as follows, “As you know there are many important issues facing our country, but we have only limited resources for addressing these issues. Keeping this in mind, how much of a priority should the federal government give to [Saving Social Security], a very high priority, a high priority but not the highest, a medium priority, or a low priority.” Respondents were asked to rate the priority they would give to each issue, with the order of issue presentation varied randomly.</p>
+         </fn>
+         <fn id="fn9">
+            <label>
+               <sup>9</sup>
+            </label>
+            <p>The data were obtained from a joint project of The Brennan Center for Justice at New York University School of Law and Professor Kenneth Goldstein of the University of Wisconsin-Madison, and includes media tracking data from the Campaign Media Analysis Group in Washington, D.C. The Brennan Center-Wisconsin project was sponsored by a grant from The Pew Charitable Trusts. The opinions expressed in this article are those of the author and do not necessarily reflect the views of the Brennan Center, Professor Goldstein, or The Pew Charitable Trusts.</p>
+         </fn>
+         <fn id="fn10">
+            <label>
+               <sup>10</sup>
+            </label>
+            <p>Not every respondent resided in one of the top 75 media markets, however, so data on the information environment is unavailable for 350 respondents.</p>
+         </fn>
+         <fn id="fn11">
+            <label>
+               <sup>11</sup>
+            </label>
+            <p>The bulk of real-world campaign studies on priming do not directly link the campaign <italic>content</italic> with public opinion, instead looking for outcomes like differences in the size of issue or trait coefficients across different campaigns (e.g., Carsey <xref ref-type="bibr" rid="ref9">2000</xref>) or as time passes within a given campaign (e.g., Mendelsohn <xref ref-type="bibr" rid="ref25">1996</xref>). This is largely a function of the type of data that has been widely available to date, most of which is not especially well-suited to capturing spatial or temporal dynamics in public responses to a campaign that varies over time and space.</p>
+         </fn>
+         <fn id="fn12">
+            <label>
+               <sup>12</sup>
+            </label>
+            <p>Nonetheless, a measure of exposure to the ads would be preferable. Lacking this, the ad measure contains error and the resulting estimates of the effects based on the ads should be attenuated. While controlling for political attentiveness should help soak up some of the noise in the ad measure, thereby increasing the signal-to-noise ratio, and reducing the bias, unquestionably some attenuation bias remains.</p>
+         </fn>
+         <fn id="fn13">
+            <label>
+               <sup>13</sup>
+            </label>
+            <p>Advertising environment is not assigned randomly, of course. Candidates determine which markets will receive a flood of campaign communications. These choices are driven more by probable electoral margins than by the perceived issue concerns of citizens. To the degree that candidates can target ads toward citizens predisposed to an issue, however, this should serve to weaken the impact on candidate-induced priming as such citizens are likely to weight the issue heavily already, leaving less room for an increase in response to advertising.</p>
+         </fn>
+         <fn id="fn14">
+            <label>
+               <sup>14</sup>
+            </label>
+            <p>I also constructed a seven-day recency measure. The models using this measure generally fell between those of the three-day and cumulative models.</p>
+         </fn>
+         <fn id="fn15">
+            <label>
+               <sup>15</sup>
+            </label>
+            <p>The estimated model includes, as well, the interaction between candidate issue emphasis and individual partisanship to adhere to the principle of marginality.</p>
+         </fn>
+         <fn id="fn16">
+            <label>
+               <sup>16</sup>
+            </label>
+            <p>The resulting heteroskedastic regression model is estimated via maximum likelihood. The model is estimated separately for each issue priority because there is not enough information in the data to adequately separate out these effects simultaneously. In addition, separate models for each issue offer a cleaner interpretation of the variance effect.</p>
+         </fn>
+         <fn id="fn17">
+            <label>
+               <sup>17</sup>
+            </label>
+            <p>Formally, the Akaike weight is calculated as: <inline-graphic mimetype="image"
+                               mime-subtype="gif"
+                               xlink:type="simple"
+                               xlink:href="eqi1.gif"/>, where <italic>δ<sub>i</sub>
+               </italic> represents the AIC difference for model <italic>i</italic>. See Burnham and Anderson (<xref ref-type="bibr" rid="ref8">2002</xref>, 75) for further elaboration.</p>
+         </fn>
+         <fn id="fn18">
+            <label>
+               <sup>18</sup>
+            </label>
+            <p>The three-way interactions with continuous variables can make interpretation especially difficult to convey clearly, as marginal effects depend on the summation of three coefficients. For instance, even if none of the constitutive coefficients are individually significant, the marginal effect of an issue priority may be significant if the covariance terms comprising the standard errors are negative. For a cogent discussion of these issues, see Brambor, Clark, and Golder <xref ref-type="bibr" rid="ref6">2006</xref>.</p>
+         </fn>
+         <fn id="fn19">
+            <label>
+               <sup>19</sup>
+            </label>
+            <p>The histogram does not represent the overall distribution of a candidate's advertising on an issue, but the distribution of the respondents’ media environments varied over both time and location.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation xlink:type="simple" publication-type="journal">Althaus, Scott L., and Young Mie Kim. 2006. “Priming Effects in Complex Information Environments: Reassessing the Impact of News Discourse on Presidential Approval.” Journal of Politics 68 (4): 960–76.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation xlink:type="simple" publication-type="book">Anderson, John R. 1983. The Architecture of Cognition. Cambridge, MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bargh, John A., Ronald N. Bond, Wendy J. Lombardi, and Mary E. Tota. 1986. “The Additive Nature of Chronic and Temporary Sources of Construct Accessibility.” Journal of Personality and Social Psychology 50 (5): 869–78.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bartels, Larry M. 2005. “Homer Gets a Tax Cut: Inequality and Public Policy in the American Mind.” Perspectives on Politics 3 (1): 15–31.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation xlink:type="simple" publication-type="book">Bartels, Larry M. 2006. “Priming and Persuasion in Presidential Campaigns.” In Capturing Campaign Effects, ed. Henry E. Brady and Richard Johnston. Ann Arbor: University of Michigan Press, 78–112.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation xlink:type="simple" publication-type="journal">Brambor, Thomas, William Roberts Clark, and Matt Golder. 2006. “Understanding Interaction Models: Improving Empirical Analysis.” Political Analysis 14 (1): 63–82.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation xlink:type="simple" publication-type="journal">Budge, Ian, and Richard I. Hofferbert 1990. “Mandates and Policy Outputs: U.S. Party Platforms and Federal Expenditures.” American Political Science Review 84 (1): 111–31.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation xlink:type="simple" publication-type="book">Burnham, Kenneth P., and David R. Anderson. 2002. Model Selection and Multi-Model Inference: A Practical Information-Theoretic Approach. New York: Springer-Verlag.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation xlink:type="simple" publication-type="book">Carsey, Thomas M. 2000. Campaign Dynamics: The Race for Governor. Ann Arbor: University of Michigan Press.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation xlink:type="simple" publication-type="journal">Druckman, James N. 2004. “Priming the Vote: Campaign Effects in a U.S. Senate Election.” Political Psychology 25 (4): 577–94.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation xlink:type="simple" publication-type="other">Goldstein, Kenneth, Michael Franz, and Travis Ridout. 2002. “Political Advertising in 2000.” Combined file [dataset]. Final release. Madison, WI: The University of Wisconsin-Madison and The Brennan Center for Justice at New York University.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation xlink:type="simple" publication-type="book">Hall, Richard L. 1996. Participation in Congress. New Haven, CT: Yale University Press.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation xlink:type="simple" publication-type="book">Higgins, E. Tory. 1996. “Knowledge Activation: Accessibility, Applicability, and Salience.” In Social Psychology: Handbook of Basic Principles, ed. E. Tory Higgins and Arie W. Kruglanski. New York: Guilford Press, 133–68.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation xlink:type="simple" publication-type="journal">Higgins, E. Tory, and C. Miquel Brendl. 1995. “Accessibility and Applicability: Some Activation Rules Influencing Judgment.” Journal of Experimental Social Psychology 31 (3): 218–43.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation xlink:type="simple" publication-type="book">Iyengar, Shanto. 1991. Is Anyone Responsible? How Television Frames Political Issues. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation xlink:type="simple" publication-type="book">Iyengar, Shanto, and Donald Kinder. 1987. News That Matters. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation xlink:type="simple" publication-type="journal">Iyengar, Shanto, Donald R. Kinder, Mark D. Peters, and Jon A. Krosnick. 1984. “The Evening News and Presidential Evaluations.” Journal of Personality and Social Psychology 46 (4): 778–87.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation xlink:type="simple" publication-type="book">Jamieson, Kathleen Hall. 2000. Everything You Think You Know about Politics…and Why You're Wrong. New York: Basic Books.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation xlink:type="simple" publication-type="book">Johnston, Richard, Andre Blais, Henry E. Brady, and Jean Crete. 1992. Letting the People Decide: Dynamics of a Canadian election. Stanford, CA: Stanford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation xlink:type="simple" publication-type="book">Johnston, Richard, Michael G. Hagen, and Kathleen Hall Jamieson. 2004. <italic>The 2000</italic> Presidential Election and the Foundation of Party Politics. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kam, Cindy D. 2006. “Political Campaigns and Open-Minded Thinking.” Journal of Politics 68 (4): 931–45.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation xlink:type="simple" publication-type="journal">Krosnick, Jon A., and Laura A. Brannon. 1993. “The Impact of the Gulf War on the Ingredients of Presidential Evaluations: Multidimensional Effects of Political Involvement.” American Political Science Review 87 (4): 963–75.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation xlink:type="simple" publication-type="journal">Krosnick, Jon A., and Donald R. Kinder. 1990. “Altering the Foundations of Support for the President Through Priming.” American Political Science Review 84 (2): 497–512.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation xlink:type="simple" publication-type="book">Lau, Richard R., and David P. Redlawsk. 2006. How Voters Decide: Information Processing in Election Campaigns. Boston: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation xlink:type="simple" publication-type="journal">Mendelsohn, M. 1996. “The Media and Interpersonal Communications: The Priming of Issues, Leaders, and Party Identification.” Journal of Politics 58 (1): 112–25.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation xlink:type="simple" publication-type="book">Miller, Joanne M., and Jon A. Krosnick. 1996. “News Media Impact on the Ingredients of Presidential Evaluations: A Program of Research on the Priming Hypothesis.” In Political Persuasion and Attitude Change, ed. Diana C. Mutz, Paul M. Sniderman, and Richard A. Brody. Ann Arbor: University of Michigan Press, 79–99.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation xlink:type="simple" publication-type="journal">Miller, Joanne M., and Jon A. Krosnick. 2000. “News Media Impact on the Ingredients of Presidential Evaluations: Politically Knowledgable Citizens are Guided by a Trusted Source.” American Journal of Political Science 44 (2): 295–309.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation xlink:type="simple" publication-type="journal">Pan, Zhongdang, and Gerald M. Kosicki. 1997. “Priming and Media Impact on the Evaluations of the President's Performance.” Communication Research 24 (1): 3–30.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation xlink:type="simple" publication-type="book">Patterson, Thomas E. 1993. Out of Order. New York: A. Knopf.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation xlink:type="simple" publication-type="journal">Petrocik, John R. 1996. “Issue Ownership in Presidential Elections, with a 1980 Case Study.” American Journal of Political Science 40 (3): 825–50.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation xlink:type="simple" publication-type="book">Price, Vincent, and David Tewksbury. 1997. “News Values and Public Opinion: A Theoretical Account of Media Priming and Framing.” In Progress in Communication Sciences, Volume 13, eds. George A. Barnett and Franklin J. Boster. Norwood, NJ: Ablex Publishing, 173–212.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation xlink:type="simple" publication-type="book">Shaw, Daron R. 2006. The Race to 270: The Electoral College and the Campaign Strategies of 2000 and 2004. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation xlink:type="simple" publication-type="book">Shoemaker, Pamela J., and Stephen D. Reese. 1996. Mediating the Message: Theories of Influences on Mass Media Content. 2nd edition. New York: Longman.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation xlink:type="simple" publication-type="journal">Valentino, Nicholas A., Vincent L. Hutchings, and Ismail K. White. 2002. “Cues that Matter: How Political Ads Prime Racial Attitudes during Campaigns.” American Political Science Review 96 (1): 75–90.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation xlink:type="simple" publication-type="book">Zaller, John. 1992. The Nature and Origins of Mass Opinion. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

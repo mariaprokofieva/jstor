@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1017/S0022381613001126</article-id>
+         <article-id pub-id-type="pii">S0022381613001126</article-id>
+         <article-id pub-id-type="publisher-id">00112</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>ARTICLES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Viability, Information Seeking, and Vote Choice</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib xlink:type="simple">
+               <string-name>
+                  <surname>Utych</surname>
+                  <given-names>Stephen M.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">                  
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <contrib-group>
+            <contrib xlink:type="simple">
+               <string-name>
+                  <surname>Kam</surname>
+                  <given-names>Cindy D.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff2">                  
+                  <sup>b</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">            
+            <label>               
+               <sup>a</sup>
+            </label>
+            <institution xlink:type="simple">Vanderbilt University</institution>
+         </aff>
+         <aff id="aff2">            
+            <label>               
+               <sup>b</sup>
+            </label>
+            <institution xlink:type="simple">Vanderbilt University</institution>
+         </aff>
+         <pub-date pub-type="ppub">
+            <day>23</day>
+            <month>10</month>
+            <year>2013</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <month>01</month>
+            <year>2014</year>
+         </pub-date>
+         <volume>76</volume>
+         <issue>1</issue>
+         <issue-id>jpolitics.76.issue-1</issue-id>
+         <fpage seq="14">152</fpage>
+         <lpage>166</lpage>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2013 </copyright-statement>
+            <copyright-year>2013</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381613001126"/>
+         <abstract abstract-type="normal">
+            <p>               
+               <italic>Existing research suggests that candidate viability influences strategic voting decisions among citizens. We argue that viability can influence electoral decision making beyond strategic considerations. We analyze original experimental data and novel observational data to examine viability’s impact on vote choice and information seeking. We conduct two mock primary election campaigns within the Dynamic Process Tracing Environment where we experimentally manipulate candidate viability. In both experiments, we find that subjects read more information about viable candidates, report more favorable ratings of viable candidates, and are more likely to vote for viable candidates. We demonstrate the generalizability of these results by assessing the relationship between viability, as measured with Gallup polls, and information seeking using observational data. There, we develop a unique measure of information seeking based on Google searches for the names of political candidates. These observational data reinforce the relationship between viability and information seeking.</italic>
+            </p>
+         </abstract>
+         <counts>
+            <page-count count="15"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ack id="ack">
+         <p>AcknowledgmentsAn earlier version of this article was presented at the George J. Graham Symposium at Vanderbilt University and the 70th Annual Meeting of the Midwest Political Science Association. We thank Larry Bartels, John Geer, Rick Lau, Joanne Miller, and David Redlawsk for constructive advice. The data from Study 1 were collected as part of a Multi-Investigator Multi-Site collaboration between Rutgers University (Rick Lau and David Redlawsk), Vanderbilt University (Cindy Kam and Liz Zechmeister), and Claremont Graduate University (Jennifer Merolla). We thank Daniel Zizumbo-Colunga and Tessa DiTonto for research assistance.</p>
+      </ack>
+      <fn-group>
+         <fn id="fn20">
+            <p>Stephen M. Utych is a Ph.D. Candidate in Political Science at Vanderbilt University, Nashville TN 37203.</p>
+            <p>Cindy D. Kam is a Professor of Political Science at Vanderbilt University, Nashville TN 37203.</p>
+         </fn>
+         <fn id="fn1">
+            <label>               
+               <sup>1</sup>
+            </label>
+            <p>Data and supporting materials to reproduce the results are available at <uri xlink:type="simple"
+                    xlink:href="https://my.vanderbilt.edu/cindykam/ upon">https://my.vanderbilt.edu/cindykam/ upon</uri> publication. An online appendix with supplementary material for this article is available at the “Supplements” link at the top of this page.</p>
+         </fn>
+         <fn id="fn2">
+            <label>               
+               <sup>2</sup>
+            </label>
+            <p>For more on the DPTE, see Lau and Redlawsk (<xref ref-type="bibr" rid="ref15">2006</xref>). The DPTE is a computer interface available for scholarly use at <uri xlink:type="simple" xlink:href="http://dpte.polisci.uiowa.edu/dpte/">http://dpte.polisci.uiowa.edu/dpte/</uri>.</p>
+         </fn>
+         <fn id="fn3">
+            <label>               
+               <sup>3</sup>
+            </label>
+            <p>While we made efforts to recruit a diverse pool of subjects, this subject pool reflects a convenience sample. Approximately 68% of subjects were female, 70% were white, and 12% were Hispanic. Subjects ranged in age from 19 to 70, with an average age of about 39 years old. While the sample skews towards females, our manipulation is orthogonal to sex, and we do not expect the treatment of candidate viability to be conditional on sex of respondent.</p>
+         </fn>
+         <fn id="fn4">
+            <label>               
+               <sup>4</sup>
+            </label>
+            <p>They then moved on to a general election, which we do not analyze.</p>
+         </fn>
+         <fn id="fn5">
+            <label>               
+               <sup>5</sup>
+            </label>
+            <p>In each party, the slate of candidates included a white male, a white female, and a minority male. For Democrats, the minority male is Hispanic (Eduardo Ramirez), while for Republicans, the minority male is African American (Lou Baker). All subjects received an initial synopsis page with the candidates’ names and photographs: this is how Lou Baker’s race is established.</p>
+         </fn>
+         <fn id="fn6">
+            <label>               
+               <sup>6</sup>
+            </label>
+            <p>Experimental stimuli and question wording appear in the online appendix.</p>
+         </fn>
+         <fn id="fn7">
+            <label>               
+               <sup>7</sup>
+            </label>
+            <p>Subjects were able to see each unique piece of information a maximum of two times in the primary. However, we only have information about when the information was accessed for the first time, not the second. Since our manipulation did not come until one minute into the primary, it is possible that some subjects received information for a second time during that minute. As such, all analyses on the amount of information read about the candidates are limited to the <italic>first</italic> time a unique piece of information was read <italic>after</italic> subjects received the first poll manipulation.</p>
+         </fn>
+         <fn id="fn8">
+            <label>               
+               <sup>8</sup>
+            </label>
+            <p>Across conditions, the average number of pieces of information read by Democrats about Ramirez was 10.9, with a standard deviation of 5.6 and a range of 0 to 24. Across conditions, the average number of pieces of information read by Republicans about Baker was 10.6 with a standard deviation of 5.6 and a range of 1 to 22.</p>
+         </fn>
+         <fn id="fn9">
+            <label>               
+               <sup>9</sup>
+            </label>
+            <p>While subjects were randomly assigned to treatment and control groups, there were incidental differences between groups in age, race, gender, partisanship, and income. As such, we control for these variables in our analyses to ensure that our results are based on the effect of the viability treatment and not on preexisting differences between the treatment and control groups.</p>
+         </fn>
+         <fn id="fn10">
+            <label>               
+               <sup>10</sup>
+            </label>
+            <p>Here, we omit the two black Republicans in our sample, since they both voted for Baker.</p>
+         </fn>
+         <fn id="fn11">
+            <label>               
+               <sup>11</sup>
+            </label>
+            <p>While both Cain and Bachmann saw increases in support over the 2012 campaign, these surges in the polls occurred very early in the election cycle and were quite brief. Further, our experiment was conducted in May 2011, prior to either candidate gaining any traction in the 2012 primary election.</p>
+         </fn>
+         <fn id="fn12">
+            <label>               
+               <sup>12</sup>
+            </label>
+            <p>Participants are part of SSI’s opt-in panel and were entered into SSI’s monthly drawing for $12,500 in exchange for completing the 10-minute study. Subjects were assigned to the Democratic or Republican primary based on their partisanship as reported on SSI’s panel information. We administered the standard partisanship question to confirm appropriate assignment to each primary, and we focus our analyses on the 92% of respondents who were correctly routed to their appropriate primary. Our final sample consisted of 345 Democrats and 365 Republicans. In the Democratic primary, 57% of subjects were female, ranging in age from 18 to 65 with an average age of 42; 67% were white, 15% black, and 6% Hispanic. In the Republican primary, 58% of subjects were female, ranging in age from 18 to 65 with an average age of 45, and 92.5% were white.</p>
+         </fn>
+         <fn id="fn13">
+            <label>               
+               <sup>13</sup>
+            </label>
+            <p>The candidate names and photos were drawn from sitting members of British Parliament. The nonviable candidate(s) was/were randomized across the candidates. We randomly assigned ideological stances to each candidate, across each condition. Experimental stimuli are available in the online appendix.</p>
+         </fn>
+         <fn id="fn14">
+            <label>               
+               <sup>14</sup>
+            </label>
+            <p>To streamline the study, subjects saw <italic>only</italic> information scroll by for candidates in their own party, and they were not given the option to finish the primary early.</p>
+         </fn>
+         <fn id="fn15">
+            <label>               
+               <sup>15</sup>
+            </label>
+            <p>We obtain substantively and statistically similar results when we separately examine the one and two nonviable candidate conditions.</p>
+         </fn>
+         <fn id="fn16">
+            <label>               
+               <sup>16</sup>
+            </label>
+            <p>Google Trends also provides access to fixed scaling-index values. Fixed scaling indicates the popularity of a given term at a selected point in time, relative to the same term in January 2004. Higher values indicate that a term is substantially more popular at the later point than it was in January 2004. Because we want to be able to compare the popularity of different terms [people] across a time period, we utilize the relative scaling-index values. We establish the relative frequency of search for each of these terms compared with a neutral baseline term (“olives”) that is very stable across this time period. We include only searches conducted through IP addresses originating in the United States. See <uri xlink:type="simple"
+                    xlink:href="http://www.google.com/intl/en/trends/about.html">http://www.google.com/intl/en/trends/about.html</uri> for more details.</p>
+         </fn>
+         <fn id="fn17">
+            <label>               
+               <sup>17</sup>
+            </label>
+            <p>We discuss the validity of the Google Trends data in the online appendix.</p>
+         </fn>
+         <fn id="fn18">
+            <label>               
+               <sup>18</sup>
+            </label>
+            <p>The eight days without a five-day rolling average from Gallup are excluded from these analyses. Information-seeking activity is based on the last day in the five-day polling window.</p>
+         </fn>
+         <fn id="fn19">
+            <label>               
+               <sup>19</sup>
+            </label>
+            <p>For each given day of information seeking, we calculated the average number of articles featuring each candidate from the previous five days. The <italic>Santorum Media Count</italic> variable ranges from 13.4 to 290, with a mean of 124.2 and a standard deviation of 68.7. The <italic>Gingrich Media Count</italic> variable ranges from 57 to 304.6, with a mean of 254.2 and a standard deviation of 61.8.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="parsed">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation xlink:type="simple" publication-type="">               Abramowitz, Alan I. 1987. Candidate Choice before the Convention: The Democrats in 1984. Political Behavior 
+               9 (1): 49–61.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation xlink:type="simple" publication-type="">               Abramowitz, Alan I. 1989. Viability, Electability, and Candidate Choice in a Presidential Primary Election: A Test of Competing Models. Journal of Politics 
+               51 (4): 977–992.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation xlink:type="simple" publication-type="">               Alvarez, R. Michael. 1997. Information and Elections. Ann Arbor, MI: University of Michigan.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation xlink:type="simple" publication-type="">               Alvarez, R. Michael, and Jonathan Nagler. 2000. A New Approach for Modeling Strategic Voting in Multiparty Elections. British Journal of Political Science 
+               30 (1): 57–75.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation xlink:type="simple" publication-type="">               Asher, Herbert. 1987. “Three Campaigns for President.” In Presidential Selection, eds. Alexander Heard and Michael Nelson. 
+               Durham: Duke University Press. 216–246.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation xlink:type="simple" publication-type="">               Bartels, Larry M. 1988. Presidential Primaries and the Dynamics of Public Choice. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation xlink:type="simple" publication-type="">               Campbell, Angus, Philip E. Converse, Warren E. Miller, and Donald E. Stokes. [1960]1980. The American Voter: Unabridged edition. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation xlink:type="simple" publication-type="">               Druckman, James N., Jordan Fein, and Thomas J. Leeper. 2012. A Source of Bias in Public Opinion Stability. American Political Science Review 
+               106 (2): 430–454.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation xlink:type="simple" publication-type="">               Ferejohn, John A., and Morris P. Fiorina. 1975. Closeness Counts Only in Horseshoes and Dancing. American Political Science Review 
+               69 (3).</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation xlink:type="simple" publication-type="">               Fiske, Susan T., and Shelley E. Taylor. 1991. Social Cognition. New York: McGraw Hill.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation xlink:type="simple" publication-type="">               Harwood, John. 2012. “After a Rollicking Primary, a Different Kind of Fight in November.” The New York Times. 4 Apr 2012. <uri xlink:type="simple"
+                    xlink:href="http://www.nytimes.com/2012/04/05/us/politics/presidential-campaign-expected-to-be-narrowly-contested.html">http://www.nytimes.com/2012/04/05/us/politics/presidential-campaign-expected-to-be-narrowly-contested.html</uri>
+            </mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation xlink:type="simple" publication-type="">               Iyengar, Shanto, Helmut Norpoth, and Kyu S. Hahn. 2004. Consumer Demand for Election News: The Horserace Sells. Journal of Politics 
+               66 (1): 157–175.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation xlink:type="simple" publication-type="">               Kam, Cindy D., and Stephen M. Utych. 2011. Close Elections and Cognitive Engagement. Journal of Politics 
+               73 (4): 1251–1266.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation xlink:type="simple" publication-type="">               Lau, Richard R. 2013. Correct Voting in the 2008 Presidential Nominating Elections. Political Behavior 
+               35 (2): 331–355.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation xlink:type="simple" publication-type="">               Lau, Richard R., and David P. Redlawsk. 2006. How Voters Decide: Information Processing during Election Campaigns. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation xlink:type="simple" publication-type="">               Mayer, William G. 1996. “Forecasting Presidential Nominations.” In In Pursuit of the White House: How We Choose Our Presidential Nominees, ed. William G. Mayer. Chatham, NJ: Chatham House Publishers. 44–71.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation xlink:type="simple" publication-type="">               Morton, Rebecca B., and Kenneth C. Williams. 2001. Learning by Voting: Sequential Choices in Presidential Primaries and Other Elections. 
+               Ann Arbor: University of Michigan Press.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation xlink:type="simple" publication-type="">               Norpoth, Helmut, and David F. Perkins. 2011. War and Momentum: The 2008 Presidential Nominations. PS: Political Science &amp; Politics 
+               44 (3): 536–543.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation xlink:type="simple" publication-type="">               Norrander, Barbara. 2006. The Attrition Game: Initial Resources, Initial Contests, and the Exit of Candidates during the U.S. Presidential Primary Season. British Journal of Political Science 
+               36 (3): 487–507.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation xlink:type="simple" publication-type="">               Patterson, Thomas E. 1994. Out of Order. 
+               New York: Vintage Books.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation xlink:type="simple" publication-type="">               Petty, Richard E., and John T. Cacioppo. 1996. Attitudes and Persuasion: Classic and Contemporary Approaches. Boulder, CO: Westview Press.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation xlink:type="simple" publication-type="">               Prior, Markus. 2007. Post-Broadcast Democracy. New York: Cambridge.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation xlink:type="simple" publication-type="">               Purcell, Kristen, Joanna Brenner, and Lee Rainie. 2012. “Search Engine Use 2012.” Pew Internet &amp; American Life Project. 
+               <uri xlink:type="simple"
+                    xlink:href="http://www.pewinternet.org/Reports/2012/Search-Engine-Use-2012/Summary-of-findings.aspx">http://www.pewinternet.org/Reports/2012/Search-Engine-Use-2012/Summary-of-findings.aspx</uri>.</mixed-citation>
+         </ref>
+      </ref-list>
+      <sec id="supplements" sec-type="online-material">
+         <title>Supplements</title>
+         <list list-type="simple">
+            <list-item>
+               <p>
+                  <inline-supplementary-material xlink:type="simple" xlink:href="sup001.docx">File sup001.docx</inline-supplementary-material>
+               </p>
+            </list-item>
+         </list>
+      </sec>
+   </back>
+</article>

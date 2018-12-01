@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jconsrese</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Consumer Research</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00935301</issn>
+         <issn pub-type="epub">15375277</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">2489586</article-id>
+         <article-id pub-id-type="doi">10.1086/209509</article-id>
+         <article-id pub-id-type="msid">JCRv24p266</article-id>
+
+         <title-group>
+            <article-title>Consumer Learning by Analogy: A Model of Internal Knowledge Transfer</article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Jennifer</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Gregan‐Paxton</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Deborah Roedder</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>John</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <aff id="aff_1">Jennifer Gregan‐Paxton is assistant professor of marketing, Washington State University, 14204 Salmon Creek Blvd., Vancouver, WA 98686. Deborah Roedder John is Curtis L. Carlson Professor of Marketing, University of Minnesota, Carlson School of Management, 271 19th Ave. South, Minneapolis, MN 55455. The authors acknowledge the useful comments and suggestions provided by the editor and reviewers. This research was funded, in part, by grants to the first author from the Carlson School of Management at the University of Minnesota and the Marketing Science Institute.</aff>
+            <x xml:space="preserve"> </x>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>1997</year>
+            <string-date>December 1997</string-date>
+         </pub-date>
+         <volume>24</volume>
+         <issue>3</issue>
+         <issue-id>jcr.1997.24.issue-3</issue-id>
+         <fpage>266</fpage>
+         <lpage>284</lpage>
+         <permissions>
+            <copyright-statement>© 1997 by JOURNAL OF CONSUMER RESEARCH, Inc.</copyright-statement>
+            <copyright-year>1997</copyright-year>
+            <copyright-holder>JOURNAL OF CONSUMER RESEARCH, Inc.</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/209509"/>
+
+         <abstract>
+            <p>Although knowledge transfer has been found to be an important learning mechanism in several consumer behavior domains, our understanding of the nature and scope of the transfer process is still in its infancy. In this article, we develop a conceptual model to explain how previously acquired knowledge is transferred in the process of consumer learning. Augmenting analogical learning theory with research on expertise effects and conceptual development, our model details the underlying stages in the process of knowledge transfer and identifies key factors influencing the nature and outcome of each stage. Applying our model to several consumer behavior contexts, we demonstrate its utility both as a tool for enhancing our understanding of knowledge transfer and as a productive guide to future research on consumer learning.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+

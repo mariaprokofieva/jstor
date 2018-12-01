@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="book-review"
+         dtd-version="1.0"
+         xml:lang="EN">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">40926777</article-id>
+         <article-id pub-id-type="doi">10.1017/S0022381610000800</article-id>
+         <article-id pub-id-type="pii">S0022381610000800</article-id>
+         <article-id pub-id-type="publisher-id">00080</article-id>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Dionne</surname>
+                  <given-names>Kim Yi</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>
+               <sup>a</sup>
+            </label>Texas A&amp;M University</aff>
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2010</year>
+         </pub-date>
+         <volume>72</volume>
+         <issue>4</issue>
+         <issue-id>jpolitics.72.issue-4</issue-id>
+         <fpage seq="36">1265</fpage>
+         <lpage>1267</lpage>
+         <product product-type="book" xlink:type="simple">
+            <target id="ref1" target-type="product"/>
+            <source>Boundaries of Contagion: How Ethnic Politics Have Shaped Government Responses to AIDS</source>. By <string-name name-style="western">
+               <surname>Lieberman</surname>
+               <given-names>Evan S.</given-names>
+            </string-name>. (<publisher-name>Princeton University Press</publisher-name>, <year>2009</year>.)</product>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2010</copyright-statement>
+            <copyright-year>2010</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381610000800"/>
+         <counts>
+            <page-count count="3"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>EN</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

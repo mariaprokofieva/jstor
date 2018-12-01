@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="book-review"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">amerjsoci</journal-id>
+         <journal-title-group>
+            <journal-title>American Journal of Sociology</journal-title>
+         </journal-title-group>
+
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00029602</issn>
+         <issn pub-type="epub">15375390</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">2991149</article-id>
+         <article-id pub-id-type="jstor">210157</article-id>
+         <article-id pub-id-type="msid">AJSv104p1228</article-id>
+         <title-group>
+            <article-title>Book Reviews</article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Philip</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Smith</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <aff id="aff_1">
+               <italic>University of Queensland</italic>
+            </aff>
+            <x xml:space="preserve"> </x>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>01</month>
+            <year>1999</year>
+            <string-date>January 1999</string-date>
+         </pub-date>
+         <volume>104</volume>
+         <issue>4</issue>
+         <issue-id>ajs.1999.104.issue-4</issue-id>
+         <fpage>1228</fpage>
+         <lpage>1230</lpage>
+         <product xlink:type="simple">
+            <source>Angels' Town: Chew Ways, Gang Life, and Rhetorics of the Everyday.</source> By <string-name name-style="western">
+               <given-names>Ralph</given-names>
+               <surname>Cintron</surname>
+            </string-name>. Boston: Beacon Press, 1997. Pp. xiii+264. $26.00.</product>
+         <permissions>
+            <copyright-statement>Permission to reprint a book review printed in this section may be obtained only from the author.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/210157"/>
+
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+

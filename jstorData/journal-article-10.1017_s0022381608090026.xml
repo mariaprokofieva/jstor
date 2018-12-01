@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="EN">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">30218924</article-id>
+         <article-id pub-id-type="doi">10.1017/S0022381608090026</article-id>
+         <article-id pub-id-type="pii">S0022381608090026</article-id>
+         <article-id pub-id-type="publisher-id">09002</article-id>
+         <title-group>
+            <article-title>Evolutionary Psychological Foundations of Civil Wars</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Kanazawa</surname>
+                  <given-names>Satoshi</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>
+               <sup>a</sup>
+            </label>London School of Economics and Political Science</aff>
+         <pub-date pub-type="ppub">
+            <month>01</month>
+            <year>2009</year>
+         </pub-date>
+         <volume>71</volume>
+         <issue>1</issue>
+         <issue-id>jpolitics.71.issue-1</issue-id>
+         <fpage seq="4">25</fpage>
+         <lpage>34</lpage>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2009</copyright-statement>
+            <copyright-year>2009</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381608090026"/>
+         <abstract abstract-type="normal">
+            <p>
+               <italic>I propose an evolutionary psychological perspective on wars and suggest that the ultimate cause of intergroup conflict may be the relative availability of reproductive women. Polygyny, which allows some men to monopolize all reproductive opportunities and exclude others, may increase the prevalence of civil wars, but not interstate wars, which did not exist in the ancestral environment. The analysis of the Correlates of War data support both hypotheses; polygyny increases civil wars but not interstate wars. Polygyny explains a greater proportion of the variance in civil war experience than democracy does in interstate war experience. If the democratic peace is the first law of international relations (interstate wars), then</italic> polygyny may be the first law of intergroup conflict (civil wars).</p>
+         </abstract>
+         <counts>
+            <page-count count="10"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>EN</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ack id="ack">
+         <p>AcknowledgmentsI thank John Orbell, Valerie M. Hudson, participants of the 2005 international conference on “Alien Rule and Its Discontents,” organized by Michael Hechter at the University of Washington, and anonymous reviewers for their comments on earlier drafts.</p>
+      </ack>
+      <fn-group>
+         <fn id="fn5">
+            <p>Satoshi Kanazawa is a reader in management, London School of Economics and Political Science, London WC2A 2AE, UK.</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>Natural selection refers to the process of differential survival; sexual selection refers to the process of differential reproductive success. This is how Darwin originally defined natural and sexual selection, as two separate processes. That's why he wrote two separate books—<italic>On the Origin of Species by Means of Natural Selection</italic> (1859) to explain natural selection, and <italic>The Descent of Man, and Selection in Relation to Sex</italic> (1871) to explain sexual selection. In the 1930s, however, biologists redefined natural selection to subsume sexual selection, and began to contend that differential reproductive success was the currency of natural selection. This is now the orthodox in all biology textbooks.</p>
+            <p>I concur with Miller (<xref ref-type="bibr" rid="ref48">2000</xref>, pp. 8-12), Campbell (<xref ref-type="bibr" rid="ref10">2002</xref>, pp. 34-35) and others in the current generation of evolutionary psychologists and believe that we should return to Darwin's original definitions and treat natural and sexual selection as two distinct processes. I am fully aware that this view is still controversial and in the minority, but I firmly believe that the conceptual separation of natural and sexual selection will bring theoretical clarity in evolutionary biology and psychology.</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>An anonymous reviewer points out that leaders of civil wars, rebellions, and insurgencies are often highly successful and admired individuals in their own community, many of whom go on to become national leaders if their cause is successful. They therefore should have plenty of reproductive opportunities. So why would they launch a civil war?</p>
+            <p>There are two important points to note. First, because subnational units (like rebellions and insurgencies) are by definition smaller on average than nation states, the leaders of such subnational units must on average be less prestigious and resourceful than leaders of nation states. Second, and more importantly, it is possible for a group of men without a clear leader to initiate and wage a civil war whereas it is by definition impossible to initiate and wage interstate wars without national leaders. So the status and resources of subnational leaders must be less important for the prospect of civil wars than those of national leaders for the prospect of interstate wars.</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>Prior to performing the principal component analysis, I used all 10 indicators of civil wars and all 10 indicators of interstate wars separately in 10 separate regression models for civil wars and 10 for interstate wars. My substantive conclusions were exactly the same as those drawn from the main analyses: Polygyny increases incidence, frequency and severity of civil wars, while it has no effect on indicators of interstate wars.</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>I thank one anonymous reviewer for raising this question.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation xlink:type="simple" publication-type="journal">Alford, John R., and John R. Hibbing. 2004. “The Origin of Politics: An Evolutionary Theory of Political Behavior.” Perspectives on Politics 2 (4): 707–23.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation xlink:type="simple" publication-type="journal">Betzig, Laura. 1982. “Despotism and Differential Reproduction: A Cross-Cultural Correlation of Conflict Asymmetry, Hierarchy, and Degree of Polygyny.” Ethology and Sociobiology 3 (4): 209–21.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation xlink:type="simple" publication-type="book">Betzig, Laura L. 1986. Despotism and Differential Reproduction: A Darwinian View of History. New York: Aldine.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation xlink:type="simple" publication-type="book">Betzig, Laura. 2002. “British Polygyny.” In Human Biology and History, ed. Malcolm Smith. London: Taylor and Francis, 30–97.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bock, John. 1999. “Evolutionary Approaches to Population: Implications for Research and Policy.” Population and Environment 21 (2): 193–222.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bollen, Kenneth. 1993. “Liberal Democracy: Validity and Method Factors in Cross-National Measures.” American Journal of Political Science 37 (4): 1207–30.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation xlink:type="simple" publication-type="book">Browne, Kingsley R. 2002. Biology at Work: Rethinking Sexual Equality. New Brunswick, NJ: Rutgers University Press.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bueno de, Mesquita, Bruce Jeremy Morrow, Randolph Siverson, and Alastair Smith. 1999. “An Institutional Explanation of the Democratic Peace.” American Political Science Review 93 (4): 791–808.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation xlink:type="simple" publication-type="book">Buss, David M. 1994. The Evolution of Desire: Strategies of Human Mating. New York: Basic Books.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation xlink:type="simple" publication-type="book">Campbell, Anne. 2002. A Mind of Her Own: The Evolutionary Psychology of Women. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation xlink:type="simple" publication-type="journal">Caprioli, M. 2005. “Primed for Violence: The Role of Gender Inequality in Predicting Internal Conflict.” International Studies Quarterly 49 (2): 161–78.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation xlink:type="simple" publication-type="journal">Caprioli, Mary, and Mark A. Boyer. 2001. “Gender, Violence, and International Crisis.” Journal of Conflict Resolution 45 (4): 503–18.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation xlink:type="simple" publication-type="book">Chagnon, Napoleon A. 1997. Yanomamö. 5th ed. Fort Worth: Harcourt Brace.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation xlink:type="simple" publication-type="book">CIA. 2008. The World Factbook 2008. Washington DC: Central Intelligence Agency.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation xlink:type="simple" publication-type="journal">Cosmides, Leda, and John Tooby. 1994. “Better Than Rational: Evolutionary Psychology and the Invisible Hand.” American Economic Review 84 (2): 327–32.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation xlink:type="simple" publication-type="journal">Crawford, Charles B. 1993. “The Future of Sociobiology: Counting Babies or Proximate Mechanisms?” Trends in Ecology and Evolution 8 (5): 183–86.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation xlink:type="simple" publication-type="book">Crawford, Charles, and Catherine Salmon. 2004. Evolutionary Psychology, Public Policy, and Personal Decisions. Mahwah, NJ: Lawrence Erlbaum.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation xlink:type="simple" publication-type="book">Daly, Martin, and Margo Wilson. 1988. Homicide. New York: De Gruyter.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation xlink:type="simple" publication-type="book">Darwin, Charles. 1859. On the Origin of Species by Means of Natural Selection. London: John Murray.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation xlink:type="simple" publication-type="book">Darwin, Charles. 1871. The Descent of Man, and Selection in Relation to Sex. London: John Murray.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation xlink:type="simple" publication-type="book">Dawkins, Richard. 1976. The Selfish Gene. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation xlink:type="simple" publication-type="journal">Dixon, William J. 1994. “Democracy and the Peaceful Settlement of International Conflict.” American Political Science Review 88 (1): 14–32.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation xlink:type="simple" publication-type="journal">Fearon, James D., and David D. Laitin. 2003. “Ethnicity, Insurgency, and Civil War.” American Political Science Review 97 (1): 75–90.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation xlink:type="simple" publication-type="book">Gat, Azar. 2006. War in Human Civilization. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation xlink:type="simple" publication-type="journal">Gelpi, Christopher. 1997. “Democratic Diversions: Governmental Structure and the Externalization of Domestic Conflict.” Journal of Conflict Resolution 41 (2): 255–82.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation xlink:type="simple" publication-type="journal">Goodwin, Jeff. 1997. “The Libidinal Constitution of a High-Risk Social Movement: Affectual Ties and Solidarity in the Huk Rebellion, 1946 to 1954.” American Sociological Review 62 (1): 53–69.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation xlink:type="simple" publication-type="journal">Horne, Christine. 2004. “Values and Evolutionary Psychology.” Sociological Theory 22 (3): 477–503.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation xlink:type="simple" publication-type="book">Hudson, Valerie M., and Andrea M. den Boer. 2004. Bare Branches: Security Implications of Asia's Surplus Male Populations. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation xlink:type="simple" publication-type="book">Johnson, Dominic D. P. 2004. Overconfidence and War: The Havoc and Glory of Positive Illusions. Cambridge, MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi. 2001a. “De Gustibus <italic>Est</italic> Disputandum.” Social Forces 79 (3): 1131–63.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi. 2001b. “Why Father Absence Might Precipitate Early Menarche: The Role of Polygyny.” Evolution and Human Behavior 22 (5): 329–34.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi. 2002. “Bowling with Our Imaginary Friends.” Evolution and Human Behavior 23 (3): 167–71.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi. 2003. “Why Productivity Fades with Age: The Crime-Genius Connection.” Journal of Research in Personality 37: 257–72.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi. 2004a. “Social Sciences Are Branches of Biology.” Socio-Economic Review 2 (3): 371–90.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi. 2004b. “The Savanna Principle.” Managerial and Decision Economics 25 (1): 41–54.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi. 2007. “The Evolutionary Psychological Imagination: Why You Can't Get a Date on a Saturday Night and Why Most Suicide Bombers Are Muslim.” Journal of Social, Evolutionary, and Cultural Psychology 1 (2): 7–17.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation xlink:type="simple" publication-type="other">Kanazawa, Satoshi. 2008. “De Gustibus <italic>Est</italic> Disputandum II: Why Liberals and Atheists Are More Intelligent.” Interdisciplinary Institute of Management. London School of Economics and Political Science.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi, and Mary C. Still. 1999. “Why Monogamy?” Social Forces 78 (1): 25–50.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kanazawa, Satoshi, and Mary C. Still. 2000. “Why Men Commit Crimes (and Why They Desist).” Sociological Theory 18 (3): 434–47.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation xlink:type="simple" publication-type="book">Kanazawa, Satoshi, and Mary C. Still. 2001. “The Emergence of Marriage Norms: An Evolutionary Psychological Perspective.” In Social Norms, ed. Michael Hechter and Karl-Dieter Opp. New York: Russell Sage Foundation, 274–304.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation xlink:type="simple" publication-type="book">Keeley, Lawrence H. 1996. War before Civilization. New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation xlink:type="simple" publication-type="book">Levinson, David. (Editor in Chief.) 1991–1995. Encyclopedia of World Cultures. (10 Volumes.) Boston: G.K. Hall.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation xlink:type="simple" publication-type="journal">Levy, Jack S. 1988. “Domestic Politics and War.” Journal of Interdisciplinary History 18 (4): 653–73.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation xlink:type="simple" publication-type="book">Lynn, Richard, and Tatu Vanhanen. 2002. IQ and the Wealth of Nations. Westport, CT: Praeger.</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation xlink:type="simple" publication-type="book">Lynn, Richard, and Tatu Vanhanen. 2006. IQ and Global Inequality. Augusta, GA: Washington Summit Books.</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation xlink:type="simple" publication-type="journal">MacDonald, Kevin B. 1999. “An Evolutionary Perspective on Human Fertility.” Population and Environment 21 (2): 223–46.</mixed-citation>
+         </ref>
+         <ref id="ref47">
+            <mixed-citation xlink:type="simple" publication-type="book">Marshall, Monty G., and Keith Jaggers. 2005. Polity Project: Dataset Users’ Manual. Arlington, VA: Polity IV Project.</mixed-citation>
+         </ref>
+         <ref id="ref48">
+            <mixed-citation xlink:type="simple" publication-type="book">Miller, Geoffrey F. 2000. The Mating Mind: How Sexual Choice Shaped the Evolution of the Human Mind. New York: Doubleday.</mixed-citation>
+         </ref>
+         <ref id="ref49">
+            <mixed-citation xlink:type="simple" publication-type="journal">Oakes, Amy. 2006. “Diversionary War and Argentina's Invasion of the Falkland Islands.” Security Studies 15 (3): 431–63.</mixed-citation>
+         </ref>
+         <ref id="ref50">
+            <mixed-citation xlink:type="simple" publication-type="journal">Orbell, John, Tomonori Morikawa, Jason Hartwig, James Hanley, and Nicholas Allen. 2004. “‘Machiavellian’ Intelligence as a Basis for the Evolution of Cooperative Dispositions.” American Political Science Review 98 (1): 1–16.</mixed-citation>
+         </ref>
+         <ref id="ref51">
+            <mixed-citation xlink:type="simple" publication-type="journal">Pickering, Jeffrey, and Emizet F. Kisangani. 2005. “Democracy and Diversionary Military Intervention: Reassessing Regime Type and the Diversionary Hypothesis.” International Studies Quarterly 49 (1): 23–43.</mixed-citation>
+         </ref>
+         <ref id="ref52">
+            <mixed-citation xlink:type="simple" publication-type="journal">Rogers, Alan R. 1994. “Evolution of Time Preference by Natural Selection.” American Economic Review 84 (3): 460–81.</mixed-citation>
+         </ref>
+         <ref id="ref53">
+            <mixed-citation xlink:type="simple" publication-type="book">Rubin, Paul H. 2002. Darwinian Politics: The Evolutionary Origin of Freedom. New Brunswick: Rutgers University Press.</mixed-citation>
+         </ref>
+         <ref id="ref54">
+            <mixed-citation xlink:type="simple" publication-type="journal">Schields, William M., and Lea M. Shields. 1983. “Forcible Rape: An Evolutionary Analysis.” Ethology and Sociobiology 4 (3): 115–36.</mixed-citation>
+         </ref>
+         <ref id="ref55">
+            <mixed-citation xlink:type="simple" publication-type="journal">Simpson, Brent T. 2003. “Sex, Fear and Greed: A Social Dilemma Analysis of Gender and Cooperation.” Social Forces 82: 35–52.</mixed-citation>
+         </ref>
+         <ref id="ref56">
+            <mixed-citation xlink:type="simple" publication-type="book">Small, Melvin, and J. David Singer. 1982. Resort to Arms: International and Civil Wars, 1816–1980. Beverly Hills, CA: Sage.</mixed-citation>
+         </ref>
+         <ref id="ref57">
+            <mixed-citation xlink:type="simple" publication-type="journal">Symons, Donald. 1990. “Adaptiveness and Adaptation.” Ethology and Sociobiology 11 (4–5): 427–44.</mixed-citation>
+         </ref>
+         <ref id="ref58">
+            <mixed-citation xlink:type="simple" publication-type="book">Thayer, Bradley A. 2004. Darwin and International Relations: On the Evolutionary Origins of War and Ethnic Conflict. Lexington: University of Kentucky Press.</mixed-citation>
+         </ref>
+         <ref id="ref59">
+            <mixed-citation xlink:type="simple" publication-type="journal">Toft, Monica Duffy. 2007. “Getting Religion? The Puzzling Case of Islam and Civil War.” International Security 31 (4): 97–131.</mixed-citation>
+         </ref>
+         <ref id="ref60">
+            <mixed-citation xlink:type="simple" publication-type="journal">Tooby, John, and Leda Cosmides. 1990. “The Past Explains the Present: Emotional Adaptations and the Structure of Ancestral Environments.” Ethology and Sociobiology 11 (4–5): 375–424.</mixed-citation>
+         </ref>
+         <ref id="ref61">
+            <mixed-citation xlink:type="simple" publication-type="journal">White, Douglas R. 1988. “Rethinking Polygyny: Co-Wives, Codes and Cultural Systems.” Current Anthropology 29 (4): 529–58.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

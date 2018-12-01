@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">curranth</journal-id>
+         <journal-title-group>
+            <journal-title>Current Anthropology</journal-title>
+         </journal-title-group>
+
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00113204</issn>
+         <issn pub-type="epub">15375382</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">3031103</article-id>
+         <article-id pub-id-type="doi">10.1086/204757</article-id>
+         <article-id pub-id-type="msid">CAv39p399</article-id>
+
+         <title-group>
+            <article-title>The Social Behavior of Chimpanzees and Bonobos: Empirical Evidence and Shifting Assumptions<xref ref-type="fn" rid="fn1">1</xref>
+            </article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Craig B.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Stanford</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <aff id="aff_1">Associate Professor and Co‐Director of the Jane Goodall Research Center, Department of Anthropology, University of Southern California (Los Angeles, Calif. 90089‐0032, U.S.A. [Stanford@almaak.usc.edu]). He was educated at Drew University, Rutgers University, and the University of California, Berkeley (Ph.D., 1990) and has taught at the University of Michigan (1989–91) as well as conducting research on nonhuman primates in Uganda, Tanzania, Peru, and Bangladesh. His publications include “Chimpanzee Hunting Behavior and Human Evolution” (<italic>American Scientist</italic> 83:256–61), “Predation and Male Bonds in Primate Societies” (<italic>Behaviour</italic>, in press), and <italic>Chimpanzee and Red Colobus: The Ecology of Predator and Prey</italic> (Cambridge: Harvard University Press, 1998). The present paper was submitted 12 VI 97 and accepted 11 IX 97.</aff>
+            <x xml:space="preserve"> </x>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>08</month>
+            <year>1998</year>
+            <string-date>August/October 1998</string-date>
+         </pub-date>
+         <volume>39</volume>
+         <issue>4</issue>
+         <issue-id>ca.1998.39.issue-4</issue-id>
+         <fpage>399</fpage>
+         <lpage>420</lpage>
+         <permissions>
+            <copyright-statement>© 1998 by The Wenner‐Gren Foundation for Anthropological Research. All rights reserved</copyright-statement>
+            <copyright-year>1998</copyright-year>
+            <copyright-holder>The Wenner‐Gren Foundation for Anthropological Research</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/204757"/>
+
+         <abstract>
+            <p>As our closest living relatives, chimpanzees and bonobos have been widely used as models of the behavior of early hominids. In recent years, as information on the social behavior and ecology of bonobos has come to light, many interspecific comparisons have been made. Chimpanzees have been characterized in terms of their intercommunity warfare, meat eating, infanticide, cannibalism, male status‐striving, and dominance over females. Bonobos, meanwhile, have been portrayed as the “Make love, not war” ape, characterized by female power‐sharing, a lack of aggression between either individuals or groups, richly elaborated sexual behavior that occurs without the constraint of a narrow window of fertility, and the use of sex for communicative purposes. This paper evaluates the evidence for this dichotomy and considers the reasons that contrasting portrayals of the two great apes have developed. While there are marked differences in social behavior between these two species, I argue that they are more similar behaviorally than most accounts have suggested. I discuss several reasons that current views of bonobo and chimpanzee societies may not accord well with field data. Among these are a bias toward captive data on bonobos, the tendency to see bonobos as derived because their behavior has been described more recently than that of chimpanzees, and the possibility that interpretations of bonobo‐chimpanzee differences are reflections of human male‐female differences.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+      <notes notes-type="footnote">
+         <fn-group>
+            <fn id="fn1">
+               <label>1</label>
+               <p>This paper was originally prepared for the Wenner‐Gren Foundation Conference “Changing Images of Primate Societies,” June 15–22, 1996, in Terresopolis, Brazil. I am grateful to the Foundation and to the organizers, Shirley Strum and Linda Fedigan, for their invitation to participate. I thank the other participants for their constructive comments on an earlier version of the manuscript, especially Richard Byrne, Sarah Hrdy, Alison Jolly, Karen Strier, Robert Sussman, and Hiroyuki Takasaki. Christopher Boehm, William McGrew, Jim Moore, and two anonymous reviewers also read and improved the paper. Research on Gombe chimpanzees was supported from 1990 to 1995 by the National Geographic Society, the Fulbright Foundation, the L. S. B. Leakey Foundation, and the University of Southern California. Research clearance was granted by the Tanzanian Commission for Science and Technology, Tanzania National Parks, and the Serengeti Wildlife Research Institute.</p>
+            </fn>
+         </fn-group>
+      </notes>
+   </front>
+</article>
+

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="EN">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">20622401</article-id>
+         <article-id pub-id-type="doi">10.1017/S0022381609990508</article-id>
+         <article-id pub-id-type="pii">S0022381609990508</article-id>
+         <article-id pub-id-type="publisher-id">99050</article-id>
+         <title-group>
+            <article-title>The Global Economy, Competency, and the Economic Vote</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Duch</surname>
+                  <given-names>Raymond M.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Stevenson</surname>
+                  <given-names>Randy</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>b</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>
+               <sup>a</sup>
+            </label>University of Oxford</aff>
+         <aff id="aff2">
+            <label>
+               <sup>b</sup>
+            </label>Rice University</aff>
+         <pub-date pub-type="ppub">
+            <month>01</month>
+            <year>2010</year>
+         </pub-date>
+         <volume>72</volume>
+         <issue>1</issue>
+         <issue-id>jpolitics.72.issue-1</issue-id>
+         <fpage seq="11">105</fpage>
+         <lpage>123</lpage>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2010</copyright-statement>
+            <copyright-year>2010</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381609990508"/>
+         <abstract abstract-type="normal">
+            <p>
+               <italic>Working within a selection model of economic voting we propose explanations for the cross-national and dynamic variations in the magnitude of the vote that have puzzled students of comparative voting behavior. Our theory suggests that unexpected shocks to the economy inform the economic vote which implies that voters are able to resolve a signal extraction problem: determine the extent to which these shocks are the result of incumbent competency as opposed to exogenous shocks to the economy. We assume that voters have information on the overall variance in shocks to the macroeconomy and that they use this signal to weight the importance of economic shocks in their vote decision. Voters are also hypothesized to recognize that higher exposure to global trade influences reduces the magnitude of the incumbent competency signal. We provide empirical evidence demonstrating that voters are able to discern significant variation in macroeconomic outcomes in order to perform this signal extraction task: We analyze a six-nation survey conducted by the authors that was designed to assess whether voters are attentive to variance in economic outcomes and whether these in fact conditioned their economic vote. Secondly we examine economic time series from 19 countries over the 1979–2005 period, demonstrating that variances in the macroeconomic series explain contextual variations in the economic vote as our theory hypothesizes. Finally, the essay demonstrates that open economies, which are more subject to exogenous economic shocks, have a smaller economic vote than countries with economies less dependent on global trade.</italic>
+            </p>
+         </abstract>
+         <counts>
+            <page-count count="19"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>EN</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ack id="ack">
+         <p>AcknowledgmentsThis paper was originally prepared for presentation at the 2006 annual meeting of the American Political Science Association, Philadelphia. It was awarded the Best Paper in Political Economy presented at the 2006 American Political Science Association Meeting. We acknowledge the generous support of the National Science Foundation that funded this project with grant SBR-0215633. Also we are very appreciated of the invaluable comments we received from Jim Alt, Rob Franzese, and Bing Powell. The assistance of Dave Armstrong and Jeff May on data issues was particularly helpful. But of course any errors here are the responsibility of the authors.</p>
+      </ack>
+      <fn-group>
+         <fn id="fn24">
+            <p>Raymond Duch is Professorial Fellow and Director Centre for Experimental Social Sciences, Nuffield College, University of Oxford , OX1 1NF Oxford, United Kingdom.</p>
+            <p>Randy Stevenson is Associate Professor of Political Science, Rice University, Houston, Texas 77251-1892.</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>We do not review the extensive literature on economic voting in this essay. For an excellent review see Lewis-Beck and Stegmaier (<xref ref-type="bibr" rid="ref18">2000</xref>) and Lewis-Beck (<xref ref-type="bibr" rid="ref17">1988</xref>).</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>We could allow politicians to differ in their policy preferences, for example leftist politicians might prefer a nonzero inflation rate. As we will see, however, economic voting in the model does not in any way depend on the policy choices of politicians and so we ignore this complication.</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>If voters observe the impact of this behavior it cannot be part of the shock but is part of the observed policy represented by π<sub>it</sub>. Likewise, any unobserved impact of behavior on growth that is constant is subsumed in the natural rate of economic growth.</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>One can also discount the impact of past competence as long as it is at least partially persistent.</p>
+         </fn>
+         <fn id="fn5">
+            <label>
+               <sup>5</sup>
+            </label>
+            <p>It is possible to state the voter's preferences more generally to include the whole sequence of time discounted future periods, e.g., <inline-graphic mimetype="image"
+                               mime-subtype="gif"
+                               xlink:type="simple"
+                               xlink:href="eqi45.gif"/>. However, the usual assumption restricts the discount factors to make this equivalent to a voter who looks into the future only so far as the next period of incumbency. For our purposes, then, the simpler formulation given in the text is adequate.</p>
+         </fn>
+         <fn id="fn6">
+            <label>
+               <sup>6</sup>
+            </label>
+            <p>In general, <inline-graphic mimetype="image"
+                               mime-subtype="gif"
+                               xlink:type="simple"
+                               xlink:href="eqi46.gif"/>, where ρ<sub>xy</sub> is the correlation between x and y.</p>
+         </fn>
+         <fn id="fn7">
+            <label>
+               <sup>7</sup>
+            </label>
+            <p>
+               <inline-graphic mimetype="image"
+                               mime-subtype="gif"
+                               xlink:type="simple"
+                               xlink:href="eqi47.gif"/> by applying the same signal extraction solution as above. Further, it is easy to show that <inline-graphic mimetype="image"
+                               mime-subtype="gif"
+                               xlink:type="simple"
+                               xlink:href="eqi48.gif"/>, so the claim in the text follows.</p>
+         </fn>
+         <fn id="fn8">
+            <label>
+               <sup>8</sup>
+            </label>
+            <p>Although since the periodicity in our abstract theoretical model is completely arbitrary—we refer to periods not months or years—the reader is free to interpret <inline-graphic mimetype="image"
+                               mime-subtype="gif"
+                               xlink:type="simple"
+                               xlink:href="eqi49.gif"/> to apply to whatever period she thinks relevant.</p>
+         </fn>
+         <fn id="fn9">
+            <label>
+               <sup>9</sup>
+            </label>
+            <p>Our focus on the developed democracies excludes, for the most part, countries that have experienced dramatic variances in macroeconomic outcomes and where there is no question that citizens have been concerned with variance in addition to growth.</p>
+         </fn>
+         <fn id="fn10">
+            <label>
+               <sup>10</sup>
+            </label>
+            <p>The survey was pretested in the United States in the early spring. The actual survey was conducted in Great Britain, Spain, Denmark, France, Italy, and Germany. The items were included on an Omnibus telephone survey administered in each country and supervised by IFOP, France.</p>
+         </fn>
+         <fn id="fn11">
+            <label>
+               <sup>11</sup>
+            </label>
+            <p>Wolfers (<xref ref-type="bibr" rid="ref24">2006</xref>) makes the opposite case using state-level election data. He suggests that voters reward/punish incumbents for economic outcomes beyond their control (such as oil price shocks in oil producing states).</p>
+         </fn>
+         <fn id="fn12">
+            <label>
+               <sup>12</sup>
+            </label>
+            <p>This assumes that a significant portion of the exogenous shocks to an economy comes from the global economy.</p>
+         </fn>
+         <fn id="fn13">
+            <label>
+               <sup>13</sup>
+            </label>
+            <p>The Europe economy question was worded as follows: “Over the last four years would you say that the European economies have experienced very stable growth, somewhat stable growth, somewhat unstable growth, or very unstable growth?”</p>
+         </fn>
+         <fn id="fn14">
+            <label>
+               <sup>14</sup>
+            </label>
+            <p>The British questioning wording is as follows: “If a general election were held next Sunday which political party would you vote for?”</p>
+         </fn>
+         <fn id="fn15">
+            <label>
+               <sup>15</sup>
+            </label>
+            <p>This is similar to the argument made by Besley and Case (<xref ref-type="bibr" rid="ref3">1995</xref>) regarding benchmark competition regarding tax rates amongst neighboring states. They argue that the media provides voters with benchmarked information about tax rates from neighboring states.</p>
+         </fn>
+         <fn id="fn16">
+            <label>
+               <sup>16</sup>
+            </label>
+            <p>We realize, of course, that not all exogenous shocks to the economy arise from nondomestic sources. Indeed, the theory only distinguishes between governmental and nongovernmental shocks, where the nongovernmental category includes shocks arising from the behavior of any economic actor who voters do not include in the government whose competency they wish to evaluate.</p>
+         </fn>
+         <fn id="fn17">
+            <label>
+               <sup>17</sup>
+            </label>
+            <p>Only developed countries from this sample were included in the analysis—countries with GDP per capita in the year 2000 of more than $5000 1995 USD.</p>
+         </fn>
+         <fn id="fn18">
+            <label>
+               <sup>18</sup>
+            </label>
+            <p>The models and the parameter estimates for each of these elections studies are available at <uri xlink:type="simple"
+                    xlink:href="http://www.raymondduch.com/economicvoting">www.raymondduch.com/economicvoting</uri>.</p>
+         </fn>
+         <fn id="fn19">
+            <label>
+               <sup>19</sup>
+            </label>
+            <p>Our estimates of the impact of a change in economic perceptions on vote probabilities is generated in a fashion that also produces estimates of uncertainty about the economic vote measure for each case. We accomplish this by sequentially applying the simulation procedure detailed in King, Tomz, and Wittenberg (<xref ref-type="bibr" rid="ref15">2000</xref>) to each respondent in each sample. We provide details of this estimation in Duch and Stevenson (<xref ref-type="bibr" rid="ref8">2008</xref>).</p>
+         </fn>
+         <fn id="fn20">
+            <label>
+               <sup>20</sup>
+            </label>
+            <p>The model is estimated using Stata 10.0’s xtmixed function.</p>
+         </fn>
+         <fn id="fn21">
+            <label>
+               <sup>21</sup>
+            </label>
+            <p>We say informative because we recognize that this residual is a noisy measure of the competency signal. One could, for example, imagine overstating the extent of government competency because it characterizes what we label as domestic shocks as being indicators of governmental influence over the economy. We do not deny that some of the residual shocks will be nongovernmental. We believe that, while noisy, the signal as we have measured it is compelling because it approximates the competency signal term that is found in the formal model.</p>
+         </fn>
+         <fn id="fn22">
+            <label>
+               <sup>22</sup>
+            </label>
+            <p>We obtain these residuals from the model in equation . For each observation of the macroeconomic indicator in the data set (recall that the observations are monthly for CPI and unemployment and quarterly for GDP growth), this model will apportion the observed value amongst four components: a constant term (or grand mean); a country effect; a period effect; and the residual. We then estimate how much this residual effect varies over each 12-month period in our data set.</p>
+         </fn>
+         <fn id="fn23">
+            <label>
+               <sup>23</sup>
+            </label>
+            <p>We have estimated a hierarchical model in which the dependent variable is individual vote for or against the incumbent party and the independent variables are economic evaluations along with a number of controls (left-right identification in particular). In a random coefficients specification the coefficients on economic evaluations are modelled as a function of trade openness. The estimated trade-openness effects on economic evaluations are statistically significant and in the expected direction, as are a number of the control variables in these models. This suggests that while the relationship in <xref ref-type="fig" rid="fig6">Figure 6</xref> appears fragile, in fact the hierarchical model suggests it is quite robust.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation xlink:type="simple" publication-type="other">Achen, Christopher, and Larry Bartels. 2002. “Blind Retrospection: Electoral Responses to Draught, Flu, and Shark Attacks.” Presented at the annual meeting of the American Political Science Association.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation xlink:type="simple" publication-type="book">Alesina, A., and H. Rosenthal. 1995. Partisan Politics, Divided Government, and the Economy. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation xlink:type="simple" publication-type="journal">Besley, Timothy, and A. Case. 1995. “Incumbent Behavior: Vote Seeking, Tax Setting and Yardstick Competition.” American Economic Review 85 (1): 25–45.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation xlink:type="simple" publication-type="book">Cheibub, Jose Antonio, and Adam Przeworski. 1999. “Democracy, Elections, and Accountability for Economic Outcomes.” In Democracy, Accountability, and Representation, eds. Adam Przeworski, Susan C. Stokes, and Bernard Manin. Cambridge: Cambridge University Press, 222–49.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation xlink:type="simple" publication-type="journal">Cukierman, Alex, and Allan H. Meltzer. 1989. “A Political Theory of Government Debt and Deficits in a Neo-Ricardian Framework.” American Economics Review 79: 713–33.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation xlink:type="simple" publication-type="journal">De Boef, Suzanna, and Paul M. Kellstedt. 2004. “The Political (and Economic) Origins of Consumer Confidence.” American Journal of Political Science 48 (4): 633–49.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation xlink:type="simple" publication-type="book">Downs, Anthony. 1957. An Economic Theory of Democracy. New York: Harper and Row.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation xlink:type="simple" publication-type="book">Duch, Raymond M., and Randy Stevenson. 2008. Voting in Context: How Political and Economic Institutions Condition Election Results. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation xlink:type="simple" publication-type="journal">Duch, Raymond M., and Randy Stevenson. 2005. “Using Multiple Surveys to Explore Contextual Variation in Behavioral Relationships: The Case of Economic Voting.” Political Analysis 13 (4): 387–409</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation xlink:type="simple" publication-type="other">Duch, Raymond M., and Randy Stevenson. 2004. “The Economy: Do they get it Right and does it Matter?” Presented at the annual meeting of the Midwest Political Science Association.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation xlink:type="simple" publication-type="journal">Ebeid, Michael, and Jonathan Rodden. 2006. “Economic Geography and Economic Voting: Evidence from the U.S. States.” British Journal of Political Science 36: 527–47.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation xlink:type="simple" publication-type="book">Erikson, Robert S., Michael B. Mackuen, and James A. Stimson. 2002. The Macro Polity. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation xlink:type="simple" publication-type="book">Greene, William H. 2003. Econometric Analysis Fifth Edition. Upper Saddle River, NJ: Prentice Hall.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation xlink:type="simple" publication-type="book">Hibbs Jr, Douglas A.. 2006. “Voting and the Macro-economy.” In The Oxford Handbook of Political Economy, eds. Barry Weingast and Donald Whittman. New York: Oxford University Press, 565–86.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation xlink:type="simple" publication-type="journal">King, Gary, Michael Tomz, and Jason Wittenberg. 2000. “Making the most of Statistical Analyses: Improving Interpretation and Presentation” American Journal of Political Science 44 (2): 341–55.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kramer, Gerald H. 1971. Short-Term Fluctuations in U.S. Voting Behavior, 1896–1964. American Political Science Review 65: 131–43.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation xlink:type="simple" publication-type="book">Lewis-Beck, Michael S. 1988. Economics and Elections: The Major Western Democracies. Ann Arbor: University of Michigan Press.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation xlink:type="simple" publication-type="journal">Lewis-Beck, Michael S., and Mary Stegmaier. 2000. “Economic Determinants of Electoral Outcomes.” Annual Review of Political Science 3: 183–219.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation xlink:type="simple" publication-type="book">Nisbett, Richard E. 2003. The Geography of Thought: How Westerners and Asians Think Differently and Why? New York: The Free Press.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation xlink:type="simple" publication-type="journal">Powell, G. Bingham, and Guy D. Whitten. 1993. “A Cross-National Analysis of Economic Voting: Taking Account of the Political Context.” American Journal of Political Science 37 (2): 391–414.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation xlink:type="simple" publication-type="journal">Quinn, Dennis P., and John T. Woolley. 2001. “Democracy and National Economic Performance: The Preference for Stability.” American Journal of Political Science 45 (03): 634–57.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation xlink:type="simple" publication-type="journal">Rogoff, Kenneth, and Sibert Anne. 1988. “Elections and Macroeconomic Policy Cycles.” Review of Economic Studies 55: 1–16.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation xlink:type="simple" publication-type="other">Scheve, Ken. 2001. “Democracy and Globalization: Candidate Selection in Open Economies.” Prepared for presentation at the 2001 annual meetings of the American Political Science Association.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation xlink:type="simple" publication-type="other">Wolfers, Justin J. 2006. “Are Voters Rational? Evidence from Gubernatorial Elections” Available at: <uri xlink:type="simple"
+                    xlink:href="http://works.bepress.com/justin_wolfers/1">http://works.bepress.com/justin_wolfers/1</uri>.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation xlink:type="simple" publication-type="book">World Bank. 2004. World Bank Development Report. Washington, DC: World Bank.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

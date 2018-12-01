@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">curranth</journal-id>
+         <journal-title-group>
+            <journal-title>Current Anthropology</journal-title>
+         </journal-title-group>
+
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00113204</issn>
+         <issn pub-type="epub">15375382</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">2991329</article-id>
+         <article-id pub-id-type="doi">10.1086/200058</article-id>
+         <article-id pub-id-type="msid">CAv40pS1</article-id>
+
+         <title-group>
+            <article-title>Writing for Culture</article-title>
+            <subtitle>Why a Successful Concept Should Not Be Discarded<xref ref-type="fn" rid="fn1">1</xref>
+            </subtitle>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Christoph</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Brumann</surname>
+               </string-name>
+            </contrib>
+            <bio xlink:type="simple">
+               <p>Christoph Brumann has been a lecturer at the Institute of Ethnology of the University of Cologne (50923 Köln, Germany) since 1992 and is currently conducting ethnographic fieldwork on preservation‐related conflicts and urban identity in Kyoto, Japan (<email xlink:href="mailto:christoph.brumann@uni-koeln.de" xlink:type="simple">christoph.brumann@uni‐koeln.de</email>). Born in 1962, he received his Dr. phil. in 1997 from the University of Cologne. Among his publications are “Strong Leaders: The Charismatic Founders of Japanese Utopian Communities,” in <italic>Leaders and Leadership in Japan</italic>, edited by Ian Neary (Richmond: Japan Library, 1996), <italic>Die Kunst des Teilens: Eine vergleichende Studie zu den Uberle‐bensbedingungen kommunitärer Gruppen</italic> (Hamburg: Lit, 1998), and “Materialistic Culture: The Uses of Money in Tokyo Gift Exchanges,” in <italic>Consumption and Material Culture in Contemporary Japan</italic>, edited by John Clammer and Michael Ashkenazi (London: Kegan Paul International, in press).</p>
+            </bio>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>02</month>
+            <year>1999</year>
+            <string-date>February 1999</string-date>
+         </pub-date>
+         <volume>40</volume>
+         <issue>S1</issue>
+         <issue-id>ca.1999.40.issue-s1</issue-id>
+         <fpage>S1</fpage>
+         <lpage>S27</lpage>
+
+         <permissions>
+            <copyright-statement>© 1999 by The Wenner‐Gren Foundation for Anthropological Research. All rights reserved</copyright-statement>
+            <copyright-year>1999</copyright-year>
+            <copyright-holder>The Wenner‐Gren Foundation for Anthropological Research</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/200058"/>
+
+         <abstract>
+            <p>In the past decade, the idea that speaking of a culture inevitably suggests an inordinate degree of boundedness, homogeneity, coherence, and stability has gained considerable support, and some cultural/social anthropologists have even called for abandoning the concept. It is argued here, however, that the unwelcome connotations are not inherent in the concept but associated with certain usages that have been less standardized than these critics assume. The root of the confusion is the distribution of learned routines across individuals: while these routines are never perfectly shared, they are not randomly distributed. Therefore, “culture” should be retained as a convenient term for designating the clusters of common concepts, emotions, and practices that arise when people interact regularly. Furthermore, outside anthropology and academia the word is gaining popularity and increasingly understood in a roughly anthropological way. Retaining the concept while clarifying that culture is not reproduced unproblematically, has its limits in the individual and the universal, and is not synonymous with ethnicity and identity will preserve the common ground the concept has created within the discipline. Moreover, it will simplify communicating anthropological ideas to the general public and thus challenging mistaken assumptions.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+      <notes notes-type="footnote">
+         <fn-group>
+            <fn id="fn1">
+               <label>1</label>
+               <p>In writing this article, I have benefited from discussions of previous versions with Hartmut Lang, Thomas Widlok, and particularly Thomas Schweizer, from the remarks of participants in a presentation to Schweizer's research seminar, and from the valuable comments of the editor and two anonymous referees. I am grateful for all this advice, although responsibility for any shortcomings of my arguments—which did not find favour with all those mentioned—rests with me alone.</p>
+            </fn>
+         </fn-group>
+      </notes>
+   </front>
+</article>
+

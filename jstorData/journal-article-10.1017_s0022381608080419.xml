@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="EN">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">30218898</article-id>
+         <article-id pub-id-type="doi">10.1017/S0022381608080419</article-id>
+         <article-id pub-id-type="pii">S0022381608080419</article-id>
+         <article-id pub-id-type="publisher-id">08041</article-id>
+         <title-group>
+            <article-title>The Nature of the Beast: Organizational Structures and the Lethality of Terrorist Attacks</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Asal</surname>
+                  <given-names>Victor</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Rethemeyer</surname>
+                  <given-names>R. Karl</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>
+               <sup>a1</sup>
+            </label>University at Albany—State University of New York</aff>
+         <pub-date pub-type="ppub">
+            <month>04</month>
+            <year>2008</year>
+         </pub-date>
+         <volume>70</volume>
+         <issue>2</issue>
+         <issue-id>jpolitics.70.issue-2</issue-id>
+         <fpage>437</fpage>
+         <lpage>449</lpage>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2008</copyright-statement>
+            <copyright-year>2008</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381608080419"/>
+         <abstract abstract-type="normal">
+            <p>
+               <italic>Why are some terrorist organizations so much more deadly then others? This article examines organizational characteristics such as ideology, size, age, state sponsorship, alliance connections, and control of territory while controlling for factors that may also influence lethality, including the political system and relative wealth of the country in which the organization is based. Using data from the Memorial Institute for the Prevention of Terrorism's Terrorism Knowledge Base (TKB), we use a negative binomial model of organizational lethality, finding that organizational size, ideology, territorial control, and connectedness are important predictors of lethality while state sponsorship, organizational age, and host country characteristics are not.</italic>
+            </p>
+         </abstract>
+         <counts>
+            <page-count count="13"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>EN</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ack id="ack">
+         <p>AcknowledgementsThis work was supported by a grant from the University of Maryland's National Consortium for the Study of Terrorism and Responses to Terrorism (START), a U.S. Department of Homeland Security-funded Center of Excellence. We would like to thank the following people and institutions: The Memorial Institute for the Prevention of Terrorism (MIPT) for granting us permission to use their data; our colleagues, David Rousseau (University at Albany-SUNY) and Brian Lai (University of Iowa), who read and commented upon earlier drafts of this study; and John G. Geer and three anonymous reviewers who provided invaluable guidance that strengthened the final product.</p>
+      </ack>
+      <fn-group>
+         <fn id="fn13">
+            <p>Victor Asal is assistant professor of political science, University at Albany, Albany, NY 12222. R. Karl Rethemeyer is assistant professor of public administration and policy, University at Albany, Albany, NY 12222.</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>Lethality could be considered a metric of a terrorist organization's “success.” We are not making that argument here. For some organizations, killing is not a valued activity—in fact, it is actively avoided. We are seeking to study those factors that make organizations likely to kill.</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>For MIPT's full definition, please see the Terrorism Knowledgebase Glossary at <uri xlink:type="simple" xlink:href="http://www.tkb.org/Glossary.jsp">http://www.tkb.org/Glossary.jsp</uri>.</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>This perspective is at odds with the emerging consensus in social psychology on ingroup and outgroup preferences. Contrary to Sumner's (1906) original contention, most recent research finds that ingroup preference does not reliably lead to outgroup disdain or hatred (see Brewer <xref ref-type="bibr" rid="ref12">1999</xref>). However, few studies have analyzed this question with respect to ingroup and outgroup preferences in the context of protracted violent conflict. The major exception—Duckitt and Mphuthing (<xref ref-type="bibr" rid="ref20">1998)</xref>—found evidence for outgroup hostility among Black South Africans toward only those whites possessing economic and political power—the Afrikaaners. This finding is consonant with the LeVine and Campbell (<xref ref-type="bibr" rid="ref46">1972)</xref> and Sherif and Sherif (<xref ref-type="bibr" rid="ref67">1953)</xref> work.</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>Some scholars hypothesize that extremist Islamic ideologies—but especially those that have accepted the potent but canonically questionable concept of jihad-as-holy war—motivate the most lethal organizations (Johnson and Russell <xref ref-type="bibr" rid="ref36">2005</xref>; Quillen <xref ref-type="bibr" rid="ref64">2002</xref>; Zimmerman <xref ref-type="bibr" rid="ref78">2004</xref>). Our data, though, had too few non-Islamic religious groups to sustain a credible statistical test.</p>
+         </fn>
+         <fn id="fn5">
+            <label>
+               <sup>5</sup>
+            </label>
+            <p>We are indebted to one of our anonymous reviewers for highlighting the importance of territory in modeling organizational lethality.</p>
+         </fn>
+         <fn id="fn6">
+            <label>
+               <sup>6</sup>
+            </label>
+            <p>We are indebted to Brian Lai of the University of Iowa for this insight.</p>
+         </fn>
+         <fn id="fn7">
+            <label>
+               <sup>7</sup>
+            </label>
+            <p>Impressionistically, it appears that many of the missing groups are new organizations that have sprung up in Iraq since the U.S. military action began.</p>
+         </fn>
+         <fn id="fn8">
+            <label>
+               <sup>8</sup>
+            </label>
+            <p>This is not the same as the “base of operations” MIPT lists in the page; in some cases, organizations may operate from one country but target another.</p>
+         </fn>
+         <fn id="fn9">
+            <label>
+               <sup>9</sup>
+            </label>
+            <p>For a more complete description of how ideology is coded in the MIPT database, see <uri xlink:type="simple"
+                    xlink:href="http://www.tkb.org/DFI.jsp%3Fpage%3Dmethod">http://www.tkb.org/DFI.jsp?page=method</uri>.</p>
+         </fn>
+         <fn id="fn10">
+            <label>
+               <sup>10</sup>
+            </label>
+            <p>Incidents may be extracted by group using this URL: <uri xlink:type="simple"
+                    xlink:href="http://www.tkb.org/IncidentGroupModule.jsp">http://www.tkb.org/IncidentGroupModule.jsp</uri>. Note: the figures obtained at a later date may not match those reported here since MIPT is continuing to update this database.</p>
+         </fn>
+         <fn id="fn11">
+            <label>
+               <sup>11</sup>
+            </label>
+            <p>Stata 9.0 includes two “canned” approaches to exposure control: (1) the natural log of units exposure with the coefficient constrained to be 1.0 (the “exposure” option); (2) units exposure modeled as a linear variable with the coefficient constrained to be 1.0 (the “offset” option). Our tests found that the constraints on the coefficient were not supported by the data. Thus we opted to control for exposure through an independent variable.</p>
+         </fn>
+         <fn id="fn12">
+            <label>
+               <sup>12</sup>
+            </label>
+            <p>The simulations results here and in the online appendix were calculated using the Stata commands “prvalue,” constructed J. Scott Long and Jun Xu, and “prtab,” constructed by J. Scott Long and Jeremy Freese—see <uri xlink:type="simple"
+                    xlink:href="http://www.indiana.edu/%7Ejslsoc/spost.htm">www.indiana.edu/~jslsoc/spost.htm</uri>.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation xlink:type="simple" publication-type="other">Ackerman, Gary. 2006. “Group Characteristics Database.” Monterey: Monterey Terrorism Research and Education Program, Monterey Institute of International Studies.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation xlink:type="simple" publication-type="journal">Alimi, Eitan. 2003. “The Effects of Opportunities on Insurgencies.” Terrorism and Political Violence 15 (3): 111–38.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation xlink:type="simple" publication-type="book">Arquilla, John, and David Ronfeldt. 2001. Networks and Netwars: The Future of Terror, Crime, and Militancy. Santa Monica: RAND Corporation.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation xlink:type="simple" publication-type="journal">Asal, Victor, and Karl Rethemeyer. 2006. “Researching Terrorist Networks.” Journal of Security Education 1 (4): 65–74.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation xlink:type="simple" publication-type="other">Bienenstock, Elisa Jayne, and Marc Sageman. 2005. “Operationalizing Terror in the Name of God: Using Two-Mode Networks to Link Terrorism to Islamic Institutions.” Presented at the International Sunbelt Social Network Conference, Redondo Beach.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bloom, Mia M. 2003. “Ethnic Conflict, State Terror and Suicide Bombing in Sri Lanka.” Civil Wars 6 (1): 54–84.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bloom, Mia M. 2004. “Palestinian Suicide Bombing: Public Support, Market Share, and Outbidding.” Political Science Quarterly 119 (1): 61–88.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation xlink:type="simple" publication-type="book">Bloom, Mia M. 2005. Dying to Kill. New York: Columbia University Press.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation xlink:type="simple" publication-type="other">Borgatti, Stephen P., Martin G. Everett, and Linton C. Freeman. 2002. UCINET 6 for Windows: Software for Social Network Analysis, Version 6.102. Harvard: Analytic Technologies.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation xlink:type="simple" publication-type="other">Borum, Randy. 2004. “Psychology of Terrorism.” <uri xlink:type="simple"
+                    xlink:href="http://www.ncjrs.gov/pdffiles1/nij/grants/208552.pdf">http://www.ncjrs.gov/pdffiles1/nij/grants/208552.pdf</uri> (June 3, 2005).</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation xlink:type="simple" publication-type="journal">Boyns, David, and James David Ballard. 2004. “Developing a Sociological Theory for the Empirical Understanding of Terrorism.” American Sociologist 35 (2): 5–25.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation xlink:type="simple" publication-type="journal">Brewer, Marilynn B. 1999. “The Psychology of Prejudice: Ingroup Love or Outgroup Hate?” Journal of Social Issues 55 (3): 429–44.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation xlink:type="simple" publication-type="book">Byman, Daniel. 2005. Deadly Connections: States that Sponsor Terrorism. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation xlink:type="simple" publication-type="book">Cameron, A. Colin, andTrivedi Previn K.. 1998. Regression Analysis of Count Data. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation xlink:type="simple" publication-type="other">Correlates of War. 2004. “National Material Capabilities (v3.01).” <uri xlink:type="simple" xlink:href="http://cow2.la.psu.edu/">http://cow2.la.psu.edu/</uri> (November 20, 2004).</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation xlink:type="simple" publication-type="journal">Crenshaw, Martha. 1981. “The Causes of Terrorism.” Comparative Politics 13 (4): 379–99.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation xlink:type="simple" publication-type="book">Crenshaw, Martha. 1988. “Theories of Terrorism: Instrumental and Organizational Approaches.” In Inside Terrorist Organizations, ed. David C. Rapoport. New York: Columbia University Press, 13–31.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation xlink:type="simple" publication-type="book">Diani, Mario, and Doug McAdam, eds. 2003. Social Movements and Networks: Relational Approaches to Collective Action. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation xlink:type="simple" publication-type="journal">Drake, C.J.M.. 1998. “The Role of Ideology in Terrorists' Target Selection.” Terrorism and Political Violence 10 (2): 53–85.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation xlink:type="simple" publication-type="journal">Duckitt, John, and Thobi Mphuthing. 1998. “Group Identification and Intergroup Attitudes: A Longitudinal Analysis in South Africa.” Journal of Personality and Social Psychology 74 (1): 80–85.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation xlink:type="simple" publication-type="journal">Eisinger, Peter. 1973. “The Conditions of Protest Behavior in American Cities.” American Political Science Review 67 (1): 11–28.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation xlink:type="simple" publication-type="journal">Enders, Walter, and Todd Sandler. 2000. “Is Transnational Terrorism Becoming More Threatening? A Time-Series Investigation.” Journal of Conflict Resolution 44 (3): 307–32.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation xlink:type="simple" publication-type="journal">Enders, Walter, and Todd Sandler. 2002. “Patterns of Transnational Terrorism, 1970–1999: Alternative Time-Series Estimates.” International Studies Quarterly 46 (2): 145–65.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation xlink:type="simple" publication-type="other">Enders, Walter, and Todd Sandler. 2004. After 9/11: Is It All Different Now? Presented at Conference on Non-State Actors, Terrorism, and Weapons of Mass Destruction, College Park, MD.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation xlink:type="simple" publication-type="book">Engene, Jan Oskar. 2004. Terrorism in Western Europe: Explaining The Trends Since 1950. Cheltenham, England: Edward Elgar Publishing.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation xlink:type="simple" publication-type="journal">Eubank, William, and Leonard Weinberg. 2001. “Terrorism and Democracy: Perpetrators and Victims.” Terrorism and Political Violence 13 (1): 155–64.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation xlink:type="simple" publication-type="journal">Ford, Christopher M. 2005. “Speak No Evil: Targeting a Population's Neutrality to Defeat an Insurgency.” Parameters 35 (2): 51–66.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation xlink:type="simple" publication-type="journal">Goodwin, Jeff. 2004. “Review Essay: What Must We Explain to Explain Terrorism.” Social Movement Studies 3 (2): 259–62.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation xlink:type="simple" publication-type="journal">Gressang IV, Daniel S. 2001. “Audience and Message: Assessing Terrorist WMD Potential.” Terrorism and Political Violence 13 (3): 83–106.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation xlink:type="simple" publication-type="book">Hannan, Michael T., and John Freeman. 1989. Organizational Ecology. Cambridge: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation xlink:type="simple" publication-type="book">Hensel, Paul R. 2000. “Theory and Evidence on Geography and Conflict.” In What Do We Know About War, ed. John A. Vasquez. Lanham, MD: Rowman and Littlefield Pub Inc., 57–84.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation xlink:type="simple" publication-type="book">Hoffman, Bruce. 1998. Inside Terrorism. New York: Columbia University Press.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation xlink:type="simple" publication-type="book">Hoffman, Bruce. 1999. “Terrorism Trends and Prospects.” In Countering the New Terrorism, ed. Ian O. Lesser, Bruce Hoffman, John Arquilla, David Ronfeldt and Michele Zanini. Santa Monica: Rand, 7–38.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation xlink:type="simple" publication-type="book">Hudson, Rex A. 1999. Who Becomes a Terrorist and Why: The 1999 Government Report on Profiling Terrorists. Washington: Federal Research Division, Library of Congress.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation xlink:type="simple" publication-type="journal">Inbar, Efraim. 2006. “Israel's Palestinian Challenge.” Israel Affairs 12 (4): 823–42.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation xlink:type="simple" publication-type="journal">Johnson, Thomas H., and James A. Russell. 2005. “A Hard Day's Night? The United States and the Global War on Terrorism.” Comparative Strategy 24 (2): 127–51.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation xlink:type="simple" publication-type="book">Juergensmeyer, Mark. 2003. Terror in the Mind of God: The Global Rise of Religious Violence. 3rd edition. Berkeley: University of California Press.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation xlink:type="simple" publication-type="book">Khagram, Sanjeev, James V. Riker, and Kathryn Sikkink, eds. 2002. Restructuring World Politics: Transnational Social Movements, Networks, and Norms. Minneapolis: University of Minnesota Press.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation xlink:type="simple" publication-type="journal">Klandermans, Bert, and Dirk Oegema. 1987. “Potentials, Networks, Motivations, and Barriers: Steps towards Participation in Social Movements.” American Sociological Review 52 (4): 519–31.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation xlink:type="simple" publication-type="other">Krebs, Valdis. 2005. “Social Network Analysis of the 9–11 Terrorist Network” <uri xlink:type="simple" xlink:href="http://www.orgnet.com/hijackers.html">http://www.orgnet.com/hijackers.html</uri> (November 22, 2005).</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation xlink:type="simple" publication-type="other">Lai, Brian. 2004. “Explaining Terrorism Using the Framework of Opportunity and Willingness: An Empirical Examination of International Terrorism.” Typescript. The University of Iowa.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation xlink:type="simple" publication-type="journal">Laqueur, Walter. 1998. “The New Face of Terrorism.” Washington Quarterly 21 (4): 169–78.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation xlink:type="simple" publication-type="book">Laqueur, Walter. 1999. The New Terrorism: Fanaticism and the Arms of Mass Destruction. New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation xlink:type="simple" publication-type="journal">Laqueur, Walter. 2004. “The Terrorism to Come.” Policy Review 126: 49–64.</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation xlink:type="simple" publication-type="book">Lesser, Ian O, Bruce Hoffman, John Arquilla, David Ronfeldt, and Michele Zanini, eds. 1999. Countering the New Terrorism. Santa Monica: Rand.</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation xlink:type="simple" publication-type="book">LeVine, Robert A., and Donald T. Campbell. 1972. Ethnocentrism: Theories of Conflict, Ethnic Attitudes and Group Behavior. New York: Wiley.</mixed-citation>
+         </ref>
+         <ref id="ref47">
+            <mixed-citation xlink:type="simple" publication-type="journal">Li, Quan. 2005. “Does Democracy Promote or Reduce Transnational Terrorist Incidents?” Journal of Conflict Resolution 49 (2): 278–97.</mixed-citation>
+         </ref>
+         <ref id="ref48">
+            <mixed-citation xlink:type="simple" publication-type="journal">Li, Quan, and Drew Schaub. 2004. “Economic Globalization and Transnational Terrorism: A Pooled Time-Series Analysis.” Journal of Conflict Resolution 48 (2): 230–58.</mixed-citation>
+         </ref>
+         <ref id="ref49">
+            <mixed-citation xlink:type="simple" publication-type="book">Long, J. Scott. 1997. Regression Models for Categorical and Limited Dependent Variables. Thousand Oaks: Sage Publications.</mixed-citation>
+         </ref>
+         <ref id="ref50">
+            <mixed-citation xlink:type="simple" publication-type="book">Long, J. Scott, and Jeremy Freese. 2003. Regression Models for Categorical Dependent Variables Using Stata. Revised.ed. College Station: Stata Press.</mixed-citation>
+         </ref>
+         <ref id="ref51">
+            <mixed-citation xlink:type="simple" publication-type="journal">Makarenko, Tamara. 2004. “The Crime-Terror Continuum: Tracing the Interplay between Transnational Organised Crime and Terrorism.” Global Crime 6 (1): 129–45.</mixed-citation>
+         </ref>
+         <ref id="ref52">
+            <mixed-citation xlink:type="simple" publication-type="other">Marshall, Monty G., and Keith Jaggers. 2003. “POLITY IV.” <uri xlink:type="simple" xlink:href="http://www.cidcm.umd.edu/inscr/polity/">http://www.cidcm.umd.edu/inscr/polity/</uri> (September 1, 2004).</mixed-citation>
+         </ref>
+         <ref id="ref53">
+            <mixed-citation xlink:type="simple" publication-type="journal">McCammon, Holly J., Ellen M. Granberg, Karen E. Campbell, and Christine Mowery. 2001. “How Movements Win: Gendered Opportunity Structures And U.S. Wome n's Suffrage Movements, 1866 to 1919.” American Sociological Review 66 (1): 49–70.</mixed-citation>
+         </ref>
+         <ref id="ref54">
+            <mixed-citation xlink:type="simple" publication-type="journal">McCarthy, John D., and Mayer N. Zald. 1977. “Resource Mobilization and Social Movements: A Partial Theory.” American Journal of Sociology 82 (6): 1212–41.</mixed-citation>
+         </ref>
+         <ref id="ref55">
+            <mixed-citation xlink:type="simple" publication-type="journal">Meyer, David S. 2004. “Protest and Political Opportunities.” Annual Review of Sociology 30 (1): 125–45.</mixed-citation>
+         </ref>
+         <ref id="ref56">
+            <mixed-citation xlink:type="simple" publication-type="other">MIPT. 2006. “MIPT Terrorism Knowledge Base.” <uri xlink:type="simple" xlink:href="http://www.tkb.org/Home.jsp">http://www.tkb.org/Home.jsp</uri> (January 29, 2006).</mixed-citation>
+         </ref>
+         <ref id="ref57">
+            <mixed-citation xlink:type="simple" publication-type="book">Morgenthau, Hans J., and Kenneth W. Thompson. 1985. Politics among Nations: The Struggle for Power and Peace. 6th ed. New York: Knopf.</mixed-citation>
+         </ref>
+         <ref id="ref58">
+            <mixed-citation xlink:type="simple" publication-type="book">Olson, Mancur. 1971. The Logic of Collective Action: Public Goods and the Theory of Groups. Cambridge: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="ref59">
+            <mixed-citation xlink:type="simple" publication-type="book">Oots, Kent Layne. 1986. A Political Organization Approach to Transnational Terrorism. Ed. Bernard K. Johnpoll. New York: Greenwood Press.</mixed-citation>
+         </ref>
+         <ref id="ref60">
+            <mixed-citation xlink:type="simple" publication-type="journal">Pape, Robert A. 2003. “The Strategic Logic of Suicide Terrorism.” American Political Science Review 97 (3): 343–61.</mixed-citation>
+         </ref>
+         <ref id="ref61">
+            <mixed-citation xlink:type="simple" publication-type="book">Pape, Robert A. 2005. Dying to Win: The Strategic Logic of Suicide Terrorism. New York: Random House.</mixed-citation>
+         </ref>
+         <ref id="ref62">
+            <mixed-citation xlink:type="simple" publication-type="journal">Pedahzur, Ami, Arie Perliger, and Leonard Weinberg. 2003. “Altruism and Fatalism: The Characteristics of Palestinian Suicide Terrorists.” Deviant Behavior 24 (4): 405–23.</mixed-citation>
+         </ref>
+         <ref id="ref63">
+            <mixed-citation xlink:type="simple" publication-type="journal">Pynchon, Marisa Reddy, and Randy Borum. 1999. “Assessing Threats of Targeted Group Violence: Contributions from Social Psychology.” Behavioral Sciences and the Law 17 (3): 339–55.</mixed-citation>
+         </ref>
+         <ref id="ref64">
+            <mixed-citation xlink:type="simple" publication-type="journal">Quillen, Chris. 2002. “A Historical Analysis of Mass Casualty Bombers.” Studies in Conflict and Terrorism 25 (5): 279–92.</mixed-citation>
+         </ref>
+         <ref id="ref65">
+            <mixed-citation xlink:type="simple" publication-type="journal">Rogers, William H. 1993. “Regression Standard Errors in Clustered Samples.” Stata Technical Bulletin 13: 1923–28.</mixed-citation>
+         </ref>
+         <ref id="ref66">
+            <mixed-citation xlink:type="simple" publication-type="journal">Ross, Jeffrey Ian. 1993. “Structural Causes of Oppositional Political Terrorism: Towards a Causal Model.” Journal of Peace Research 30 (3): 317–29.</mixed-citation>
+         </ref>
+         <ref id="ref67">
+            <mixed-citation xlink:type="simple" publication-type="book">Sherif, Muzafer, and Carolyn W. Sherif. 1953. Group in Harmony and Tension: An Integration of Studies on Inter-group Relations. New York: Harper.</mixed-citation>
+         </ref>
+         <ref id="ref68">
+            <mixed-citation xlink:type="simple" publication-type="journal">Simon, Steven, and Daniel Benjamin. 2000. “America and the New Terrorism.” Survival 42 (1): 59.</mixed-citation>
+         </ref>
+         <ref id="ref69">
+            <mixed-citation xlink:type="simple" publication-type="journal">Simon, Steven, and Daniel Benjamin. 2001. “The Terror.” Survival 43 (4): 5–18.</mixed-citation>
+         </ref>
+         <ref id="ref70">
+            <mixed-citation xlink:type="simple" publication-type="book">Simon, Steven, and Daniel Benjamin. 2002. The Age of Sacred Terror. New York: Random House.</mixed-citation>
+         </ref>
+         <ref id="ref71">
+            <mixed-citation xlink:type="simple" publication-type="journal">Singer, J. David. 1987. “Reconstructing the Correlates of War Dataset on Material Capabilities of States, 1816–1985.” International Interactions 14 (2): 115–32.</mixed-citation>
+         </ref>
+         <ref id="ref72">
+            <mixed-citation xlink:type="simple" publication-type="journal">Stanislawski, Bartosz H. 2005. “Transnational Organized Crime, Terrorism, and WMD.” International Studies Review 7 (1): 158–60</mixed-citation>
+         </ref>
+         <ref id="ref73">
+            <mixed-citation xlink:type="simple" publication-type="book">Sumner, William Graham. 1906. Folkways. New York: Ginn.</mixed-citation>
+         </ref>
+         <ref id="ref74">
+            <mixed-citation xlink:type="simple" publication-type="journal">Takeyh, Ray, and Nikolas K. Gvosdev. 2002. “Do Terrorist Networks Need a Home?” The Washington Quarterly 25 (3): 97–108.</mixed-citation>
+         </ref>
+         <ref id="ref75">
+            <mixed-citation xlink:type="simple" publication-type="book">Tilly, Charles. 1978. From Mobilization to Revolution. Reading, MA: Addison-Wesley.</mixed-citation>
+         </ref>
+         <ref id="ref76">
+            <mixed-citation xlink:type="simple" publication-type="book">Tilly, Charles. 2003. The Politics of Collective Violence. Cambridge, MA: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref77">
+            <mixed-citation xlink:type="simple" publication-type="book">Wilkinson, Paul. 2000. Terrorism versus Democracy: The Liberal State Response. London: Frank Cass.</mixed-citation>
+         </ref>
+         <ref id="ref78">
+            <mixed-citation xlink:type="simple" publication-type="journal">Zimmerman, John C. 2004. “Sayyid Qutb's Influence on the 11 September Attacks.” Terrorism &amp; Political Violence 16 (2): 222–52.</mixed-citation>
+         </ref>
+      </ref-list>
+      <sec id="supplements" sec-type="online-material" disp-level="1">
+         <title>Supplements</title>
+         <list list-type="simple">
+            <list-item>
+               <label>• </label>
+               <p>
+                  <inline-supplementary-material xlink:type="simple" xlink:href="sup001.pdf">File sup001.pdf</inline-supplementary-material>
+               </p>
+            </list-item>
+         </list>
+      </sec>
+   </back>
+</article>

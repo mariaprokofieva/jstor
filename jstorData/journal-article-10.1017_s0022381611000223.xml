@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="book-review"
+         dtd-version="1.0"
+         xml:lang="EN">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">23020113</article-id>
+         <article-id pub-id-type="doi">10.1017/S0022381611000223</article-id>
+         <article-id pub-id-type="pii">S0022381611000223</article-id>
+         <article-id pub-id-type="publisher-id">00022</article-id>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Conroy</surname>
+                  <given-names>Meredith</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>
+               <sup>a</sup>
+            </label>Occidental College</aff>
+         <pub-date pub-type="ppub">
+            <day>13</day>
+            <month>05</month>
+            <year>2011</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <month>04</month>
+            <year>2011</year>
+         </pub-date>
+         <volume>73</volume>
+         <issue>2</issue>
+         <issue-id>jpolitics.73.issue-2</issue-id>
+         <fpage seq="30">621</fpage>
+         <lpage>622</lpage>
+         <product product-type="book" xlink:type="simple">
+            <target id="ref1" target-type="product"/>
+            <source>Personality and the Foundations of Political Behavior</source>. By <string-name name-style="western">
+               <surname>Mondak</surname>
+               <given-names>Jeffery J.</given-names>
+            </string-name>. (<publisher-name>Cambridge University Press</publisher-name>, <year>2010</year>.)</product>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2011</copyright-statement>
+            <copyright-year>2011</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381611000223"/>
+         <counts>
+            <page-count count="2"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>EN</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

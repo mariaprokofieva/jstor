@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="EN">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">40784769</article-id>
+         <article-id pub-id-type="doi">10.1017/S0022381610000137</article-id>
+         <article-id pub-id-type="pii">S0022381610000137</article-id>
+         <article-id pub-id-type="publisher-id">00013</article-id>
+         <title-group>
+            <article-title>Government Performance and Life Satisfaction in Contemporary Britain</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Whiteley</surname>
+                  <given-names>Paul</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Clarke</surname>
+                  <given-names>Harold D.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>b</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Sanders</surname>
+                  <given-names>David</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>c</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Stewart</surname>
+                  <given-names>Marianne C.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff4">
+                  <sup>d</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>
+               <sup>a</sup>
+            </label>University of Essex</aff>
+         <aff id="aff2">
+            <label>
+               <sup>b</sup>
+            </label>University of Texas at Dallas, University of Essex</aff>
+         <aff id="aff3">
+            <label>
+               <sup>c</sup>
+            </label>University of Essex</aff>
+         <aff id="aff4">
+            <label>
+               <sup>d</sup>
+            </label>University of Texas at Dallas</aff>
+         <pub-date pub-type="ppub">
+            <month>07</month>
+            <year>2010</year>
+         </pub-date>
+         <volume>72</volume>
+         <issue>3</issue>
+         <issue-id>jpolitics.72.issue-3</issue-id>
+         <fpage seq="12">733</fpage>
+         <lpage>746</lpage>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2010</copyright-statement>
+            <copyright-year>2010</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s0022381610000137"/>
+         <abstract abstract-type="normal">
+            <p>
+               <italic>This paper investigates relationships between public policy outcomes and life satisfaction in contemporary Britain. Monthly national surveys gathered between April 2004 and December 2008 are used to analyze the impact of policy delivery both at the micro and macro levels, the former relating to citizens’ personal experiences, and the latter to cognitive evaluations of and affective reactions to the effectiveness of policies across the country as a whole. The impact of salient political events and changes in economic context involving the onset of a major financial crisis also are considered. Analyses reveal that policy outcomes, especially microlevel ones, significantly influence life satisfaction. The effects of both micro- and macrolevel outcomes involve both affective reactions to policy delivery and cognitive judgments about government performance. Controlling for these and other factors, the broader economic context in which policy judgments are made also influences life satisfaction.</italic>
+            </p>
+         </abstract>
+         <counts>
+            <page-count count="14"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>EN</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ack id="ack">
+         <p>AcknowledgmentsWe wish to thank the UK Economic and Social Research Council and the US National Science Foundation for financial support that enabled us to gather the survey data presented in this article. We particularly appreciate the interest in our work shown by Gary Williams at the ESRC and Brian Humes, Jim Granato and Frank Scioli at the NSF.</p>
+      </ack>
+      <fn-group>
+         <fn id="fn16">
+            <p>Paul F. Whiteley is Professor of Government at the University of Essex, Colchester, Essex, CO4 3SQ, United Kingdom</p>
+            <p>Harold D. Clarke, Ashbel Smith Professor of Economic, Political and Policy Sciences, University of Texas at Dallas, Richardson TX, 75083.</p>
+            <p>David Sanders is Professor of Government at the University of Essex, Colchester, Essex, CO4 3SQ, United Kingdom</p>
+            <p>Marianne Stewart, Professor of Economic, Political and Policy Sciences, University of Texas at Dallas, Richardson TX, 75083.</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>This finding echoes earlier studies arguing that expressive motives are important for explaining voting turnout (e.g., Brennan and Buchanan <xref ref-type="bibr" rid="ref3">1984</xref>).</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>Recognizing the importance of life satisfaction, the British government has appointed Richard Layard “Happiness Tsar” to oversee research on the topic. See <uri xlink:type="simple"
+                    xlink:href="http://blog.harvardbusiness.org/corkindale/2009/08/should_work_make_us_happy.html">http://blog.harvardbusiness.org/corkindale/2009/08/should_work_make_us_happy.html</uri>.</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>For example, in a 2000 British national survey, 55% agreed that: “People like me have no say in what government does” and only 22% disagreed (Pattie, Seyd, and Whiteley <xref ref-type="bibr" rid="ref51">2004</xref>, 45).</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>See <uri xlink:type="simple" xlink:href="http://www.essex.ac.uk/bes">http://www.essex.ac.uk/bes</uri>.</p>
+         </fn>
+         <fn id="fn5">
+            <label>
+               <sup>5</sup>
+            </label>
+            <p>There were two months with no surveys, May 2005 and September 2006.</p>
+         </fn>
+         <fn id="fn6">
+            <label>
+               <sup>6</sup>
+            </label>
+            <p>The visual impression of stationarity in <xref ref-type="fig" rid="fig2">Figure 2</xref> is confirmed by a unit-root test (Enders <xref ref-type="bibr" rid="ref17">2003</xref>). The Dickey-Fuller test statistic is −5.48, which rejects the null hypothesis of nonstationarity at the .01 level.</p>
+         </fn>
+         <fn id="fn7">
+            <label>
+               <sup>7</sup>
+            </label>
+            <p>From September to December 2007 the percentages of people describing themselves as “afraid” when they thought about the economy were 22%, 34%, 34%, and 27%.</p>
+         </fn>
+         <fn id="fn8">
+            <label>
+               <sup>8</sup>
+            </label>
+            <p>See <uri xlink:type="simple" xlink:href="http://www.bes2009-10.org">http://www.bes2009-10.org</uri>.</p>
+         </fn>
+         <fn id="fn9">
+            <label>
+               <sup>9</sup>
+            </label>
+            <p>The principal components analysis yields one factor with an eigenvalue greater than 1.0 (1.82), which explains 45.7% of the item variance.</p>
+         </fn>
+         <fn id="fn10">
+            <label>
+               <sup>10</sup>
+            </label>
+            <p>The factor has an eigenvalue of 2.06 and explains 52.5% of the item variance.</p>
+         </fn>
+         <fn id="fn11">
+            <label>
+               <sup>11</sup>
+            </label>
+            <p>The factor has an eigenvalue of 1.29 and explains 32.2% of the item variance.</p>
+         </fn>
+         <fn id="fn12">
+            <label>
+               <sup>12</sup>
+            </label>
+            <p>Given the large number of predictors used either alone or in various indices and the plausible assumption that data are not missing completely at random, listwise deletion is not a viable option if sample integrity is to be maintained. Here, we use mean substitution for continuous variables and midpoint substitution for ordinal-scale variables (e.g., recoding “don’t know” responses to the “neither agree nor disagree” category of 5-point Likert scales). Given the extremely large sample size (N = 69,750), concern that these procedures will underestimate standard errors is not an issue.</p>
+         </fn>
+         <fn id="fn13">
+            <label>
+               <sup>13</sup>
+            </label>
+            <p>All of the marital status dummy variables are initially set to 0, and then each of them is set to 1 in turn. This permits computation of the probability of being satisfied with life associated with membership in one of the designated categories (living as married, divorced, single, widowed) compared to being married (the reference category).</p>
+         </fn>
+         <fn id="fn14">
+            <label>
+               <sup>14</sup>
+            </label>
+            <p>Multilevel model coefficients are estimated using HLM 6.4 (Rudenbush et al. 2004).</p>
+         </fn>
+         <fn id="fn15">
+            <label>
+               <sup>15</sup>
+            </label>
+            <p>Frey discusses this process in relation to the utility derived from increased income in the following terms: “Additional material goods and services initially provide extra pleasure, but it is usually transitory. Higher utility from material goods wears off. Satisfaction depends on change and disappears with current consumption” (2008, 32). In the language of time-series analysis, the hypothesis is that life satisfaction follows a pulse-decay pattern in reaction to increases in personal income. This process is often called the “hedonic treadmill.” Recent studies using longitudinal data from the British Household Panel Study and other sources indicate that such treadmill effects are not inevitable (see, e.g., Hansson <xref ref-type="bibr" rid="ref24">2009</xref>).</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation xlink:type="simple" publication-type="book">Argyle, Michael. 1987. The Psychology of Happiness. London: Methuen.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bjornskov, Christian, Axel Dreher, and A. V. Justina Fisher. 2007. “The Bigger the Better? Evidence of the Effect of Government Size on Life Satisfaction around the World.” Public Choice 130 (1/2): 267–92.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation xlink:type="simple" publication-type="journal">Brennan, Geoffrey, and James Buchanan. 1984. “Voter Choice: Evaluating Political Alternatives.” American Behavioral Scientist 28 (2): 185–201.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation xlink:type="simple" publication-type="book">Brickman, P., and David T. Campbell. 1971. “Hedonic Relativism and Planning the Good Society.” In Adaptation-Level Theory: A Symposium, ed. Mortimer H. Appley. New York: Academic Press.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation xlink:type="simple" publication-type="book">Bruni, Luigino, and Pier Luigi Porta. 2005. Economics and Happiness: Framing the Analysis. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation xlink:type="simple" publication-type="book">Bruni, Luigino, and Pier Luigi Porta, eds. 2007. Handbook on the Economics of Happiness. London: Edward Elgar.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation xlink:type="simple" publication-type="book">Clarke, Harold. D., Marianne Stewart, David Sanders, and Paul Whiteley. 2004. Political Choice in Britain. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation xlink:type="simple" publication-type="book">Clarke, Harold. D., Marianne Stewart, David Sanders, and Paul Whiteley. 2009. Performance Politics and the British Voter. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation xlink:type="simple" publication-type="journal">Conover, Pamela, and Stanley Feldman. 1986. “Emotional Reactions to the Economy: I’m Mad as Hell and I’m Not Going to Take It Any More.” American Journal of Political Science 30 (1): 50–78.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation xlink:type="simple" publication-type="other">Dahl, Robert A. 1972. Polyarchy: Participation and Opposition. New Haven, CT: Yale University Press.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation xlink:type="simple" publication-type="book">Diener, Ed, and Eunkook Suh, eds. 2000. Culture and Subjective Well-Being. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation xlink:type="simple" publication-type="book">Diener, Ed, ed. 2009. Culture and Well-Being: The Collected Works of Ed Diener. Heidelberg: Springer Dordrecht.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation xlink:type="simple" publication-type="journal">Di Tella, Rafael, Robert MacCulloch, and Andrew Oswald. 2003. “The Macroeconomics of Happiness.” Review of Economics and Statistics 85 (4): 809–27.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation xlink:type="simple" publication-type="book">Duch, Ray, and Randolph T. Stevenson. 2008. The Economic Vote: How Political and Economic Institutions Condition Election Results. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation xlink:type="simple" publication-type="book">Easterlin, Richard, ed. 2002. Happiness in Economics. London: Edward Elgar.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation xlink:type="simple" publication-type="journal">Easterlin, Richard. 2003. “Explaining Happiness.” Proceedings of the National Academy of Sciences 100 (19): 11176–11183.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation xlink:type="simple" publication-type="book">Enders, Walter. 2003. Applied Econometric Time Series. 2nd edition. New York: John Wiley &amp; Sons.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation xlink:type="simple" publication-type="book">Frey, Bruno S. 2008. Happiness: A Revolution in Economics. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation xlink:type="simple" publication-type="journal">Frey, Bruno S., and Alois Stutzer. 2000. “Happiness, Economy and Institutions.” Economic Journal 110 (446): 918–38.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation xlink:type="simple" publication-type="book">Frey, Bruno S., and Alois Stutzer. 2002. Happiness and Economics. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation xlink:type="simple" publication-type="journal">Frey, Bruno S., and Alois Stutzer. 2005. “Happiness Research: State and Prospects.” Review of Social Economy 63 (2): 207–28.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation xlink:type="simple" publication-type="book">Gigerenzer, Gerd. 2008. Rationality for Mortals. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation xlink:type="simple" publication-type="book">Gigerenzer, Gerd, and Peter M. Todd. 1999. Simple Heuristics That Make Us Smart. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation xlink:type="simple" publication-type="book">Hansson, Anna. 2009. Subjective Well-Being and Adult Swedish Population. Stockholm: Karolinska Institutet.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation xlink:type="simple" publication-type="journal">Helliwell, John. 2006. “Well-Being, Social Capital and Public Policy: What’s New?” Economic Journal 116 (510): C34–C45.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation xlink:type="simple" publication-type="journal">Helliwell, John, and Huang Haifang. 2008. “How’s Your Government? International Evidence Linking Good Government and Well-Being.” British Journal of Political Science 38 (4): 595–619.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation xlink:type="simple" publication-type="book">Kahneman, Daniel, Ed Diener, and Norbert Schwarz, eds. 1999. Well-Being: The Foundations of Hedonic Psychology. New York: Russell Sage Foundation.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation xlink:type="simple" publication-type="other">Kaufmann, Daniel, Aart Kraay, and Massimo Mastruzzi. 2006. “Governance Matters V: Aggregate and Individual Governance Indicators for 1996–2005.” Washington, DC: World Bank.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kenny, Charles, 1999. “Does Growth Cause Happiness or Does Happiness Cause Growth?” Kyklos 52 (1): 3–26.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation xlink:type="simple" publication-type="journal">Kinder, Donald R., and Roderick D. Kiewiet. 1981. “Sociotropic Politics: The American Case.” British Journal of Political Science 11 (2): 129–62.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation xlink:type="simple" publication-type="book">Kuklinski, James H., and Paul J. Quirk. 2000. “Reconsidering the Rational Public.” In Elements of Reason, eds. Arthur Lupia, Mathew McCubbins, and Samuel L. Popkin. Cambridge: Cambridge University Press, 153–80.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation xlink:type="simple" publication-type="book">Lane, Robert E. 2000. The Loss of Happiness in Market Economies. New Haven, CT: Yale University Press.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation xlink:type="simple" publication-type="journal">Lavine, Howard, and Thomas Gschwend. 2006. “Issues, Party and Character: The Moderating Role of Ideological Thinking on Candidate Evaluation.” British Journal of Political Science 37 (1): 139–63.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation xlink:type="simple" publication-type="book">Layard, Richard. 2005. Happiness: Lessons from a New Science. London: Penguin.</mixed-citation>
+         </ref>
+         <ref id="ref65">
+            <mixed-citation xlink:type="simple" publication-type="journal">Layard, Richard. 2006. “Happiness and Public Policy: A Challenge to the Profession.” Economic Journal 116 (510): c24–c33.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation xlink:type="simple" publication-type="book">Lewis-Beck, Michael. S. 1988. Economics and Elections: The Major Western Democracies. Ann Arbor: University of Michigan Press.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation xlink:type="simple" publication-type="journal">Lupia, Arthur. 1994. “Shortcuts versus Encyclopedias: Information and Voting Behavior in California Insurance Reform Elections.” American Political Science Review 88 (1): 63–76.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation xlink:type="simple" publication-type="book">Marcus, George E., W. Russell Neuman, and Michael MacKuen. 2000. Affective Intelligence and Political Judgment. Chicago: University of Chicago Press, 2000.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation xlink:type="simple" publication-type="other">Macpherson, C. B. 1977. The Life and Times of Liberal Democracy. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation xlink:type="simple" publication-type="book">Mueller, Georg P. 2008. “Trust and Life Satisfaction in Eastern and Western Europe.” In Quality of Life and the Millennium Challenge, eds. Valerie Moller and Denis Huschka. New York: Springer Science, 161–76.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation xlink:type="simple" publication-type="journal">Mullis, Randolph J. 1992. “Measures of Economic Well- Being as Predictors of Psychological Well-Being.” Social Indicators Research 26 (2): 119–35.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation xlink:type="simple" publication-type="book">Mutz, Diana C. 1998. Impersonal Influence: How Perceptions of Mass Collectives Affect Political Attitudes. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation xlink:type="simple" publication-type="journal">Near, Janet P., and Paula L. Rechner. 1993. “Cross-Cultural Variations in Predictors of Life Satisfaction: An Historical View of Differences among Western European Countries.” Social Indicators Research 29 (1): 109–21.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation xlink:type="simple" publication-type="book">Nettle, Daniel. 2005. Happiness: The Science Behind Your Smile. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation xlink:type="simple" publication-type="book">Neuman, W. Russell, George E. Marcus, Ann N. Crigler, and Michael MacKuen, eds. 2007. The Affect Effect: Dynamics of Emotion in Political Thinking and Behavior. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation xlink:type="simple" publication-type="book">Nussbaum, Martha. 2001. Upheavals of Thought: The Intelligence of Emotions. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref47">
+            <mixed-citation xlink:type="simple" publication-type="journal">Oswald, Andrew. 1997. “Happiness and Economic Performance.” Economic Journal 107 (445): 1815–31.</mixed-citation>
+         </ref>
+         <ref id="ref48">
+            <mixed-citation xlink:type="simple" publication-type="other">Pacek, Alexander. 2009. “Politics Vs. Markets in the Diffusion of Human Well-Being: A Cross-National Analysis.” Unpublished paper. Texas A &amp; M University.</mixed-citation>
+         </ref>
+         <ref id="ref49">
+            <mixed-citation xlink:type="simple" publication-type="journal">Pacek, Alexander, and Benjamin Radcliff. 2008. “Assessing the Welfare State: The Politics of Happiness.” Perspectives on Politics 6: 267–77.</mixed-citation>
+         </ref>
+         <ref id="ref50">
+            <mixed-citation xlink:type="simple" publication-type="other">Pateman, Carole. 1970. Participation and Democratic Theory. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref51">
+            <mixed-citation xlink:type="simple" publication-type="book">Pattie, Charles, Patrick Seyd, and Paul Whiteley. 2004. Citizenship in Britain: Values, Participation and Democracy. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref52">
+            <mixed-citation xlink:type="simple" publication-type="book">Peterson, Christopher. 1999. “Personal Control and Well-Being.” In Well-Being: The Foundations of Hedonic Psychology, eds. Daniel Kahneman, Ed Diener, and Norbert Schwarz. New York. Russell Sage Foundation, 288–301.</mixed-citation>
+         </ref>
+         <ref id="ref53">
+            <mixed-citation xlink:type="simple" publication-type="book">Popkin, Samuel L. 1991. The Reasoning Voter: Communication and Persuasion in Presidential Campaigns. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref54">
+            <mixed-citation xlink:type="simple" publication-type="book">Putnam, Robert. 2000. Bowling Alone: The Collapse and Revival of American Community. New York: Simon &amp; Schuster.</mixed-citation>
+         </ref>
+         <ref id="ref55">
+            <mixed-citation xlink:type="simple" publication-type="journal">Radcliff, Benjamin. 2001. “Politics, Markets and Life Satisfaction.” American Political Science Review 95 (4): 939–52.</mixed-citation>
+         </ref>
+         <ref id="ref56">
+            <mixed-citation xlink:type="simple" publication-type="book">Raudenbush, Stephen W., and Anthony S. Bryk. 2002. Hierarchical Linear Models: Applications and Data Analysis Methods. 2<sup>nd</sup> Ed. Thousand Oaks, CA: Sage Publications.</mixed-citation>
+         </ref>
+         <ref id="ref57">
+            <mixed-citation xlink:type="simple" publication-type="book">Raudenbush, Stephen W., Anthony S. Bryk, Uk Fai Cheong, and Richard T. Congdon Jr. 2004. HLM 6: Hierarchical Linear and Nonlinear Modeling. Chicago: Scientific Software.</mixed-citation>
+         </ref>
+         <ref id="ref58">
+            <mixed-citation xlink:type="simple" publication-type="book">Sanders, David, Harold Clarke, Marianne Stewart, and Paul Whiteley 2001. “The Economy and Voting.” In Britain Votes 2001, ed. Pippa Norris. Oxford: Oxford University Press, 225–38.</mixed-citation>
+         </ref>
+         <ref id="ref59">
+            <mixed-citation xlink:type="simple" publication-type="book">Sniderman, Paul M., Richard A. Brody, and Phillip E. Tetlock, eds. 1991. Reasoning and Choice: Explorations in Political Psychology. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref60">
+            <mixed-citation xlink:type="simple" publication-type="book">Snijders, Tom, and Roel Bosker. 1999. Multilevel Analysis: An Introduction to Basic and Advanced Multilevel Modeling. London: Sage.</mixed-citation>
+         </ref>
+         <ref id="ref61">
+            <mixed-citation xlink:type="simple" publication-type="journal">Stokes, Donald E. 1963. “Spatial Models of Party Competition.” American Political Science Review 57 (2): 368–77.</mixed-citation>
+         </ref>
+         <ref id="ref62">
+            <mixed-citation xlink:type="simple" publication-type="journal">Veenhoven, Ruut. 1996. “Developments in Satisfaction Research.” Social Indicators Research 37 (1): 1–46.</mixed-citation>
+         </ref>
+         <ref id="ref63">
+            <mixed-citation xlink:type="simple" publication-type="journal">Veenhoven, Ruut. 1999. “Quality of Life in Individualistic Society: A Comparison of 43 Nations in the Early 1990s.” Social Indicators Research 48 (2): 157–86.</mixed-citation>
+         </ref>
+         <ref id="ref64">
+            <mixed-citation xlink:type="simple" publication-type="book">Whiteley, Paul. 1986. Political Control of the Macroeconomy. London: Sage</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="EN">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="ucp-id">JOP</journal-id>
+         <journal-id journal-id-type="publisher-id">jpolitics</journal-id>
+         <journal-title-group>
+            <journal-title>The Journal of Politics</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Cambridge University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223816</issn>
+         <issn pub-type="epub">14682508</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">30218940</article-id>
+         <article-id pub-id-type="doi">10.1017/S002238160809018X</article-id>
+         <article-id pub-id-type="pii">S002238160809018X</article-id>
+         <article-id pub-id-type="publisher-id">09018</article-id>
+         <title-group>
+            <article-title>Representation and American Governing Institutions</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Jones</surname>
+                  <given-names>Bryan D.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Larsen-Price</surname>
+                  <given-names>Heather</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>b</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <surname>Wilkerson</surname>
+                  <given-names>John</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>c</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>
+               <sup>a</sup>
+            </label>The University of Texas at Austin</aff>
+         <aff id="aff2">
+            <label>
+               <sup>b</sup>
+            </label>University of Memphis</aff>
+         <aff id="aff3">
+            <label>
+               <sup>c</sup>
+            </label>University of Washington</aff>
+         <pub-date pub-type="ppub">
+            <month>01</month>
+            <year>2009</year>
+         </pub-date>
+         <volume>71</volume>
+         <issue>1</issue>
+         <issue-id>jpolitics.71.issue-1</issue-id>
+         <fpage seq="20">277</fpage>
+         <lpage>290</lpage>
+         <permissions>
+            <copyright-statement>Copyright © Southern Political Science Association 2009</copyright-statement>
+            <copyright-year>2009</copyright-year>
+            <copyright-holder>Southern Political Science Association</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1017/s002238160809018x"/>
+         <abstract abstract-type="normal">
+            <title>Abstract</title>
+            <p>
+               <italic>We isolate two limitations of the existing literature on representation and then move toward some important remedies. The first limitation is that typical representation studies assess the extent to which policymakers’ issue positions correspond to those of the public, but do not investigate whether the issue priorities of policymakers correspond to those of the public. The second limitation is that existing studies do not consider the full policymaking process, from agenda setting to enactment. Using data provided by the Policy Agendas and Congressional Bills Projects, we investigate how well the public's policy priorities have been represented in national policymaking over a 47-year time period. We first assess public concern about 18 major issues using Most Important Problem data (1956–2002) and then correlate these concerns with changing issue attention across 10 policymaking channels that are ordered by differences in institutional friction. We find much closer correspondence where friction is low.</italic>
+            </p>
+         </abstract>
+         <counts>
+            <page-count count="14"/>
+         </counts>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>EN</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <app-group>
+         <app id="sec10">
+            <label>Appendix</label>
+            <title>A Weighted Euclidean Distance Model of Representation</title>
+            <p>Underlying positional studies of representation is an implicit model that is incomplete, because it assumes an unweighted Euclidian distance function characterizes the policy spaces of mass publics and of actual government action. We argue that a weighted Euclidian metric is actually appropriate, since it incorporates policy priorities as well as policy distances.</p>
+            <p>First we look at the simple unweighted model. Let A<sub>k</sub> be the agreement between a government policy activity and the collective preferences of the public for a policy. This agreement corresponds to the inverse of the distance between the policy activity and the collective preference.<xref ref-type="fn" rid="fn10">
+                  <sup>10</sup>
+               </xref> For two policy dimensions of equal weight, this distance is calculated as follows (where the subscript <italic>p</italic> denotes the government policy position, the subscript <italic>c</italic> denotes the collective position of the public, and the numerical subscripts refer to the two policy issues):<disp-formula id="eqn1">
+                  <graphic mime-subtype="gif"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="eqn1.gif"/>
+               </disp-formula>
+            </p>
+            <p>If we adopt the standard assumption of spatial modeling approaches that the two issues are uncorrelated,<xref ref-type="fn" rid="fn11">
+                  <sup>11</sup>
+               </xref> we can reduce this to the standard Euclidean distance model where agreement is a simple function of the actors’ positions on the two issues:<disp-formula id="eqn2">
+                  <graphic mime-subtype="gif"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="eqn2.gif"/>
+               </disp-formula>
+            </p>
+            <p>A more general model of representation that incorporates priorities, in contrast, modifies this equation to:<disp-formula id="eqn3">
+                  <graphic mime-subtype="gif"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="eqn3.gif"/>
+               </disp-formula>
+            </p>
+            <p>Where agreement is a function of three distinct elements:<list list-type="simple">
+                  <list-item>
+                     <label>1) </label>
+                     <p>the positions of the public and government on the two issues;</p>
+                  </list-item>
+                  <list-item>
+                     <label>2) </label>
+                     <p>the weights the public assigns to each issue dimension;</p>
+                  </list-item>
+                  <list-item>
+                     <label>3) </label>
+                     <p>the correlation between these two issue dimensions.</p>
+                  </list-item>
+               </list>
+            </p>
+            <p>The full agreement matrix is:<disp-formula id="eqn4">
+                  <graphic mime-subtype="gif"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"
+                           xlink:href="eqn4.gif"/>
+               </disp-formula>
+            </p>
+            <p>where:</p>
+            <p>Y is an (n X 1) vector of differences between the spatial location of the public's policy preference and the government's policy activity.</p>
+            <p>P is a symmetric (n x n) matrix of weights assigned to each issue dimension by the public, what we term the <italic>priorities matrix.</italic> The on-diagonal elements are the issue weights, and the off-diagonal elements are the correlations between each pair of weights.</p>
+            <p>We are not in a position at present to estimate this full model, since that would require data on positions and priorities simultaneously. Nevertheless this model clarifies where future empirical research might be directed to advance representational studies that incorporate priorities as well as positions.</p>
+         </app>
+      </app-group>
+      <ack id="ack">
+         <p>AcknowledgmentsThis paper was made possible through NSF Grants No. SES-0111443-001, SES-00880066-001 and SES-00880066-001. The views expressed are those of the authors and not the National Science Foundation. Earlier versions were presented at the 2006 SPSA annual meetings, and the 2007 ECPR General Conference, Pisa, Italy. We also benefited from the comments of Larry Evans, Eric Schickler, and Tracy Sulkin.</p>
+      </ack>
+      <fn-group>
+         <fn id="fn12">
+            <p>Bryan D. Jones is a distinguished professor of government, University of Texas at Austin, Austin, TX 78712.</p>
+            <p>Heather Larsen-Price is an assistant professor of political science, University of Memphis, Memphis, TN 38152.</p>
+            <p>John Wilkerson is an associate professor of political science, University of Washington, Seattle, WA 98195.</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>Pollingreport.com, reported from the Gallup Organization.</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>Pollingreport.com; president's war disapproval is from a July 11 Newsweek Poll, while the question of troop strength is from a CBS-<italic>New York Times</italic> poll conducted July 9–17, 2007.</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>Pollingreport.com, <italic>Newsweek</italic> Poll, May 11, 2006.</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>Thermostatic (Wlezien <xref ref-type="bibr" rid="ref40">1995</xref>) and error-correction (Erikson, MacKuen, and Stimson <xref ref-type="bibr" rid="ref12">2002</xref>) approaches have begun to address these methodological issues in positional representation research.</p>
+         </fn>
+         <fn id="fn5">
+            <label>
+               <sup>5</sup>
+            </label>
+            <p>We start with 1956 because Gallup did not use the MIP regularly before that time. Available Policy Agendas Project data series lead us to end at 2002. The Defense and International Affairs categories are combined.</p>
+         </fn>
+         <fn id="fn6">
+            <label>
+               <sup>6</sup>
+            </label>
+            <p>Changes in Congressional Quarterly Almanac formatting prevent us from extending this measure beyond 1998. Existing approaches to measuring lawmaking importance rely on some assessment of press coverage of the laws. For more information about this method, see <uri xlink:type="simple"
+                    xlink:href="http://www.policyagendas.org/excel/mostimportantlaws4898.xls">http://www.policyagendas.org/excel/mostimportantlaws4898.xls</uri>
+            </p>
+         </fn>
+         <fn id="fn7">
+            <label>
+               <sup>7</sup>
+            </label>
+            <p>The results for the two measures used here (number of significant correlations and average correlation) differ slightly but do not affect our substantive conclusions.</p>
+         </fn>
+         <fn id="fn8">
+            <label>
+               <sup>8</sup>
+            </label>
+            <p>A legislative hearing addresses a specific bill or bills according to the <italic>Congressional Indexing Service</italic>.</p>
+         </fn>
+         <fn id="fn9">
+            <label>
+               <sup>9</sup>
+            </label>
+            <p>The National Elections Study series (1978–2006) queries respondents about their issue priorities and issue positions (7-point scale), their representative's position on issues, and his or her overall performance.</p>
+         </fn>
+         <fn id="fn10">
+            <label>
+               <sup>10</sup>
+            </label>
+            <p>It would seem that some current empirical practices actually track a “city block” metric rather than a Euclidean one, by correlating positions on an issue-by-issue basis. That will not affect our analysis here.</p>
+         </fn>
+         <fn id="fn11">
+            <label>
+               <sup>11</sup>
+            </label>
+            <p>This is no trivial assumption, and is the focus of the work on ideology by Hinich and Munger (<xref ref-type="bibr" rid="ref16">1994</xref>). Correlated issues do not affect our analysis here because we focus on priorities rather than distances. They would affect tests of the full model that incorporates positional distances as well as priorities.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation xlink:type="simple" publication-type="other">Adler, E. Scott, and John Wilkerson. 2007. “A Governing Theory of Legislative Organization” Presented at the 2007 annual meetings of the American Political Science Association. Chicago.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation xlink:type="simple" publication-type="book">Arnold, R. Douglas. 1990. The Logic of Congressional Action. New Haven: Yale University Press.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bachrach, Peter, and Morton Baratz. 1962. “Two Faces of Power.” American Political Science Review 56 (4): 947–52.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation xlink:type="simple" publication-type="journal">Bartels, Larry M. 1991. “Constituency Opinion and Congressional Policy Making: The Reagan Defense Build Up.” American Political Science Review 85 (2): 457–74.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation xlink:type="simple" publication-type="book">Baumgartner, Frank, and Bryan D. Jones. 1993. Agendas and Instability in American Politics. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation xlink:type="simple" publication-type="book">Birkland, Thomas. A. 1997. After Disaster: Agenda Setting, Public Policy, and Focusing Events. Washington, DC: Georgetown University Press.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation xlink:type="simple" publication-type="other">Breunig, Christian, and Bryan D. Jones. 2007. “Noah and Joseph Effects in Government Budgets: Analyzing Long-Term Memory.” Center for American Politics and Public Policy Working Paper: <uri xlink:type="simple"
+                    xlink:href="http://www.policyagendas.org/pdf/jonesbreunig2007.pdf">http://www.policyagendas.org/pdf/jonesbreunig2007.pdf</uri>
+            </mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation xlink:type="simple" publication-type="book">Burden, Barry C. 2007. Personal Roots of Representation. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation xlink:type="simple" publication-type="journal">Edwards, George, William Mitchell, and Reed Welch. 1995. “Explaining Presidential Approval: The Significance of Issue Salience.” American Journal of Political Science 39 (1): 108–34.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation xlink:type="simple" publication-type="journal">Enelow, James M., and Melvin J. Hinich. 1989. “The Location of American Presidential Candidates.” Mathematical Computational Modeling 12 (4–5): 461–70.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation xlink:type="simple" publication-type="journal">Epstein, Lee, and Jeffrey A. Segal. 2000. “Measuring Issue Salience.” American Journal of Political Science 44 (1): 66–83.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation xlink:type="simple" publication-type="book">Erikson, Robert, Michael MacKuen, and James Stimson. 2002. The MacroPolity. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation xlink:type="simple" publication-type="other">Feeley, T. Jens, Heather Larsen, and Bryan D. Jones. “Recorded MIP Dataset Codebook.” <italic>Center for American Politics and Public Policy Working Paper</italic>: <uri xlink:type="simple"
+                    xlink:href="http://www.policyagendas.org/codebooks/index.html#mip">http://www.policyagendas.org/codebooks/index.html#mip</uri> Accessed July 31, 2008.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation xlink:type="simple" publication-type="book">Gaventa, John. 1982. Power and Powerlessness: Quiescence and Rebellion in an Appalachian Valley. Urbana University of Illinois Press.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation xlink:type="simple" publication-type="book">Hall, Thad. 2004. Authorizing Policy. Columbus: The Ohio State University Press.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation xlink:type="simple" publication-type="book">Hinich, Melvin, and Michael Munger. 1994. Ideology and the Theory of Political Choice. Ann Arbor: University of Michigan Press.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation xlink:type="simple" publication-type="book">Jones, Bryan D. 2001. Politics and the Architecture of Choice. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation xlink:type="simple" publication-type="book">Jones, Bryan D. 1994. Reconceiving Decision-Making in Democratic Politics. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation xlink:type="simple" publication-type="book">Jones, Bryan D., and Frank R. Baumgartner. 2005. The Politics of Attention. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation xlink:type="simple" publication-type="journal">Jones, Bryan D., and Frank R. Baumgartner. 2004. Representation and Agenda Setting. Policy Studies Journal 32 (1): 1–24.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation xlink:type="simple" publication-type="journal">Jones, Bryan D., Tracy Sulkin, and Heather Larsen. 2003. “Policy Punctuations in American Political Institutions.” American Political Science Review 97 (1): 151–70.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation xlink:type="simple" publication-type="book">Kingdon, John W. 1997. Agendas, Alternatives, and Public Policies. 2nd ed. Pearson Education.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation xlink:type="simple" publication-type="book">Kreps, David. 1990. Game Theory and Economic Modeling. New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation xlink:type="simple" publication-type="book">Mayhew, David. 1974. Congress: The Electoral Connection. New Haven, CT: Yale University Press.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation xlink:type="simple" publication-type="journal">Miller, Warren E., and Donald Stokes. 1963. “Constituency Influence in Congress.” American Political Science Review 57 (1): 45–57.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation xlink:type="simple" publication-type="book">Page, Benjamin I., and Robert Y. Shapiro. 1992. The Rational Public. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation xlink:type="simple" publication-type="book">Poole, Keith, and Howard Rosenthal. 1997. Congress: A Political-Economic History of Roll-Call Voting. New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation xlink:type="simple" publication-type="book">Riker, William H. 1993. Agenda Formation. Ann Arbor: University of Michigan Press.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation xlink:type="simple" publication-type="book">Rochefort, David A., and Roger W. Cobb. 1994. The Politics of Problem Definition: Shaping the Policy Agenda. Lawrence: The University Press of Kansas.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation xlink:type="simple" publication-type="book">Schattschneider, E.E. 1975. The Semisovereign People: A Realist's View of Democracy in <italic>America</italic>. New York: Harcourt Brace</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation xlink:type="simple" publication-type="book">Simon, Herbert A. 1983. Reason in Human Affairs. Stanford, CA: Stanford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation xlink:type="simple" publication-type="book">Smith, Mark A. 2000. American Business and Political Power: Public Opinion, Elections and Democracy. Chicago: University of Chicago.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation xlink:type="simple" publication-type="book">Smith, Mark. 2005. American Business and Political Power: Public Opinion, Elections and Democracy. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation xlink:type="simple" publication-type="journal">Soroka, Stuart, and Christopher Wlezien. 2005. “Opinion-Policy Dynamics: Public Preferences and Public Expenditures in the United Kingdom.” British Journal of Political Science 35: 665–89.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation xlink:type="simple" publication-type="book">Stimson, James A. 1999. Public Opinion in America. 2nd ed. Boulder, CO: Westview Press.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation xlink:type="simple" publication-type="book">Sulkin, Tracy. 2005. Issue Politics in Congress. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation xlink:type="simple" publication-type="journal">Talbert, Jeffery, Bryan D. Jones, and Frank R. Baumgartner. 1995. “Non-Legislative Hearings and Policy Change in Congress.” American Journal of Political Science 39 (2): 383–405.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation xlink:type="simple" publication-type="journal">Walker, Jack. 1977. “Setting the Agenda in the U.S. Senate: A Theory of Problem Selection.” British Journal of Political Science 7 (4): 423–45.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation xlink:type="simple" publication-type="journal">Weisberg, Robert. 1978. “Collective versus Dyadic Representation.” American Political Science Review 73 (2): 535–47.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation xlink:type="simple" publication-type="journal">Wlezien, Christopher. 1995. “The Public as Thermostat: Dynamics of Preferences for Spending.” American Journal of Political Science 39 (4): 981–1000.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation xlink:type="simple" publication-type="journal">Wlezien, Christopher. 2005. “On the Salience of Political Issues.” Electoral Studies 24 (4): 555–79.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation xlink:type="simple" publication-type="book">Zaller, John. 1992. The Nature and Origin of Mass Opinion. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

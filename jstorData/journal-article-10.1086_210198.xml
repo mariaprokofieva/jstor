@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="book-review"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">amerjsoci</journal-id>
+         <journal-title-group>
+            <journal-title>American Journal of Sociology</journal-title>
+         </journal-title-group>
+
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00029602</issn>
+         <issn pub-type="epub">15375390</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">2990960</article-id>
+         <article-id pub-id-type="jstor">210198</article-id>
+         <article-id pub-id-type="msid">AJSv104p1556</article-id>
+         <title-group>
+            <article-title>Book Reviews</article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Barbara R.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Bergmann</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <aff id="aff_1">
+               <italic>American University</italic>
+            </aff>
+            <x xml:space="preserve"> </x>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>03</month>
+            <year>1999</year>
+            <string-date>March 1999</string-date>
+         </pub-date>
+         <volume>104</volume>
+         <issue>5</issue>
+         <issue-id>ajs.1999.104.issue-5</issue-id>
+         <fpage>1556</fpage>
+         <lpage>1557</lpage>
+         <product xlink:type="simple">
+            <source>Child Poverty and Deprivation in the Industrialized Countries, 1945‐1995</source>, edited by <string-name name-style="western">
+               <given-names>Giovanni Andrea</given-names>
+               <surname>Cornia</surname>
+            </string-name> and <string-name name-style="western">
+               <given-names>Sheldon</given-names>
+               <surname>Danziger</surname>
+            </string-name>. New York: Clarendon Press, 1997. Pp. xiv+430. $85.00.</product>
+         <permissions>
+            <copyright-statement>Permission to reprint a book review printed in this section may be obtained only from the author.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/210198"/>
+
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+
