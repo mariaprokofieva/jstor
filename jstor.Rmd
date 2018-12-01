@@ -1,0 +1,42 @@
+---
+title: "JSTOR"
+author: "MariaProkofieva"
+date: "06/11/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+```
+
+## JSTOR
+
+JSTOR is a well know resource for research journals and papers. Their collection goes and goes and include wide range of subjects (last count shows 75 disciplines, quite impressive) as well as quite diverse range of publication outputs (books, journal papers, primary sources, etc). It is indeed one of the first points to start your scholarly search, be that the literature review or the publication explorations.
+
+For years, searching database archives was a tedeious task with lots of time, effort and "confusing" paths when you get distracted by something that you do not really need for your research, but read it because it's fun!
+
+JSTOR makes our life eaier now by allowing API access to their resources.
+
+There are a few packages around to work with JSTOR data. I tried  [benmarwick/JSTORr](https://github.com/benmarwick/JSTORr) and [jstor](https://github.com/ropensci/jstor) and I personally prefer the later for the ease of use.
+
+[https://github.com/benmarwick/JSTORr](benmarwick/JSTORr) and [jstor] (https://github.com/ropensci/jstor) and I personally prefer the later for the ease of use.
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
